@@ -1,0 +1,396 @@
+Influenza (flu)
+Also known as Flu
+Overview
+Influenza, most commonly referred to as the “flu” is a contagious viral infection caused primarily by the influenza virus A or B. It generally affects the nose, throat, bronchi, and lungs (i.e. upper respiratory organs) but other organs such as the heart, brain, and muscles can also get affected in severe cases. 
+
+The occurrence of influenza is worldwide showing pandemic, epidemic, or seasonal patterns. Epidemics of flu happen annually during autumn and winter in temperate areas and produce significant mortality and morbidity each year. 
+
+The virus is transmitted from person to person with respiratory droplets produced when the patient coughs or sneezes within close contact (<1 m). Individuals usually recover after a few days, but influenza can give rise to complications, especially in high-risk groups like pregnant women, individuals with an underlying immunodeficiency state, adults older than 65 years of age, children below 5 years, and individuals with chronic diseases like asthma, heart and kidney conditions.
+
+The symptoms of flu include high fever, body ache, headache, severe malaise, dry cough, sore throat, and runny nose. It should be differentiated from the common cold by clinical presentations. Flu also shares some of its symptoms with COVID -19 infection. One cannot tell the difference between flu and COVID-19 just by looking at the symptoms, hence, testing is needed to confirm the diagnosis. Testing is also important as it can determine if someone is suffering from both flu and COVID-19 at the same time. 
+
+Treatment of flu involves relieving the symptoms and in some cases, the use of antiviral drugs is also required. Though the annual influenza vaccine isn't 100% effective, it's still the best defense against the flu.
+Key Facts
+Usually seen in
+Children under 59 months and individuals above 65 years of age.
+Gender affected
+Both men and women
+Body part(s) involved
+Nose
+Throat
+Lungs
+Prevalence
+ India: 81.4% (2012)
+Mimicking Conditions
+Pneumonia
+Common cold
+Strep throat
+COVID-19
+Bronchitis
+Respiratory syncytial virus
+Necessary health tests/imaging
+Molecular assay (rapid)
+Rapid influenza diagnostic Test (RIDT)
+Immunofluorescence assay (direct and indirect)
+Rapid cell culture (shell vials; cell mixtures)
+Treatment
+Neuraminidase inhibitors (i.e. oseltamivir) and corticosteroids
+See All
+Symptoms Of Influenza
+
+Each person may experience symptoms in a different manner. Though influenza is a respiratory disease, it can affect the entire body. Sometimes individuals may have trouble figuring out whether they have a common cold or the flu. 
+
+There are differences between them like the symptoms of a cold usually come on more slowly and are less severe than symptoms of the flu. Colds rarely cause a fever or headaches. In the case of influenza people usually become very sick with most, or all, of the following symptoms:
+Cough that becomes severe gradually
+Extreme exhaustion or tiredness
+Severe muscle aches and pains
+Runny or stuffy nose
+Occasional sneezing
+Fatigue for several weeks
+Headache
+Loss of appetite
+High fever with chills
+Sore throat
+Vomiting and diarrhea (more common in children)
+Pale face with watery and red eyes
+Fever and body aches usually last for 3 to 5 days, but cough and fatigue may last for 2 weeks or more. Know the difference between common cold and flu.
+Click To Know!
+
+Similarities and differences between influenza and common cold
+
+Influenza (flu) and the common cold are both contagious respiratory tract illnesses, but they are caused by different viruses. They have a lot of similarities and it becomes difficult to distinguish between them. Some of the most common similarities and differences include:
+
+1. Symptoms
+Similarity: The symptoms of cold and flu are very similar at the onset with runny nose, headache, fatigue and difficulty in breathing.
+Difference: Cold symptoms are usually milder than the symptoms of flu and it generally does not result in serious health problems.
+2. Cause
+Similarity: Both cold and influenza are caused by viruses.
+Difference: Flu is caused by influenza viruses only, whereas the common cold can be caused by a number of other viruses, including rhinoviruses, parainfluenza, and seasonal coronaviruses.
+3. Incubation period
+Similarity: Both the diseases are highly contagious and have an incubation period (the period between exposure to an infection and the appearance of the first symptoms) of minimum 1 day before the individual starts experiencing symptoms. 
+Difference: The exact incubation period for influenza is 1-4 days and 1-7 days for cold.
+4. Duration of illness
+Similarity: Influenza and common cold cause respiratory tract illness ranging from 4 days to two weeks.
+Difference: A cold's duration (how long it lasts) is about 7 to 10 days; however, depending upon the viral strain, it can last up to two weeks. The flu's duration varies from about 5 days to two weeks depending upon the severity of the infection.
+5. Risk factors
+Similarity: Both have similar risk factors i.e. younger children, old people, pregnant women and immunocompromised individuals are at a higher risk.
+Difference: Individuals who do not receive the yearly flu vaccine are more likely to risk getting infected with a flu virus but there is no vaccination to prevent against common cold.
+It is important to know the difference between common cold and influenza (flu). Do not ignore the symptoms or take them lightly. Read more about how to know when your cold is more than a cold?
+Click Now!
+
+
+Similarities and differences between influenza (flu) and COVID-19
+
+Influenza (flu) and COVID-19 are both contagious respiratory infections of the respiratory system but are caused by different viruses. COVID-19 is caused by an infection with a coronavirus (first identified in 2019). And influenza is caused by infection with a flu virus (influenza viruses). These two infections have caused havoc in the world. Let us look at some of the common similarities and differences between them:
+
+1. Duration of illness
+Similarity: It takes 1 or more days before an infected person starts experiencing the  symptoms of illness.
+Difference: COVID -19 may take a longer duration for the symptoms to start whereas in the case of flu the symptoms begin between 1-4 days.
+2. Duration of the spread of the virus
+Similarity: It is possible to spread the virus for at least 1 day before experiencing any symptoms.
+Difference: If a person has COVID-19, they could be contagious for a longer time than if they have flu (7 days).
+3. Mode of the spread
+Similarity: Both COVID-19 and flu can spread from person to person between people who are in close contact with one another i.e within about 6 feet through droplets from sneezing, coughing, or talking.
+Difference: Though the virus that causes COVID-19 and flu viruses are thought to spread in similar ways, COVID-19 is generally more contagious than flu viruses.
+4. Individuals at risk
+Similarity: Both COVID-19 and flu illness can result in severe illness and complications in older adults, individuals with certain underlying medical conditions, and pregnant women.
+Difference: COVID-19 seems to cause more serious illnesses in some people resulting in hospitalization and death can occur even in healthy people.
+5. Complications
+Similarity: Respiratory complications occur in patients infected with influenza or COVID -19.
+Difference: Most people who get flu will recover on their own in a few days to two weeks whereas COVID -19 complications can happen even after the recovery (long covid syndrome).
+COVID- 19 is here to stay, but we need to adapt to it and get accustomed to the “new normal”. Read more about the FAQs on COVID- 19.
+Click Here!
+
+Causes Of Influenza
+
+Influenza viruses belong to the family of viruses called “Orthomyxoviridae”, an RNA-type virus. Viruses have spherical or filamentous shapes with an envelope, containing glycoproteins and a single-stranded RNA gene. The 2 most important glycoproteins over the outer layer of the flu virus are hemagglutinin (H, or HA) and neuraminidase (N, or NA). Both of them have important roles in the spread of the disease.
+
+The influenza viruses are divided into 3 main types i.e A, B, and C. Most of the epidemics (a widespread occurrence of an infectious disease in a community at a particular time) and outbreaks of flu are caused most commonly by types A and B, with type C being generally responsible for sporadic mild upper respiratory symptoms.
+
+Type A influenza virus
+For influenza type A, at least 16 highly variable hemagglutinins( a glycoprotein which causes red blood cells to clump together- H1 to H16) and 9 distinct NAs (N1 to N9) have been recognized so far. With the aid of these different antigens, the influenza type A virus is further subdivided into subtypes on the basis of variable combination patterns of their own specific H or N proteins, for example H1N1 or H3N2.
+
+Type B influenza virus
+The influenza B virus has a similar viral structure to type A, but, due to the fixed antigenic characters of HA and NA, there are no subtypes in this virus. Still, since the 1970s, some small antigenic variability has been reported in this virus. Also, studies have shown that this virus has started to diverge into 2 antigenically distinguishable lineages.
+Risk Factors For Influenza
+
+Influenza vaccination is the primary method for preventing influenza and reducing the risk of severe outcomes. However, groups of individuals who are at high risk include:
+Adults above the age of 65 years
+Children below 5 years (especially< 2 years)
+Pregnant women (2nd or 3rd trimester of pregnancy up to 2 weeks postpartum)
+Residents of nursing homes and other long-term care facilities
+Individuals with certain chronic medical conditions like
+Chronic pulmonary diseases
+Cardiovascular conditions
+Diabetes mellitus
+Kidney disorders
+Liver diseases
+Blood disorders
+Metabolic disorders
+Cognitive dysfunction 
+Neuromuscular disorders
+Stroke
+Seizure disorders
+Immunocompromised patients
+Current or past use of tobacco
+Obese individuals with BMI > 40
+Children and adolescents receiving aspirin or salicylate-containing medications might be at risk for developing Reye syndrome (a rare but serious condition that causes swelling in the liver and brain) with influenza virus infection.
+Did you know?
+Asthma and influenza (flu) are two common conditions of the respiratory tract that affect millions of people worldwide. Learn more on how flu affects people with asthma and what you should do to prevent health complications.
+Click Now!
+Diagnosis Of Influenza
+
+Influenza virus testing is not required to make a clinical diagnosis of influenza in outpatients with suspected influenza, particularly when seasonal influenza A and B viruses are circulating in the local community.
+
+Influenza testing is recommended for all patients requiring hospitalization with suspected influenza, including those admitted to the ICU during influenza season with acute respiratory illness and community-acquired pneumonia, without a clear alternative diagnosis. Also, all individuals requiring critical care outside of influenza season should be tested for influenza if there is a possible link to an individual with recent influenza, such as travel to areas with influenza activity or exposure to an institutional influenza outbreak.
+
+However, during periods of low influenza activity and outside of epidemics situations, the infection of other respiratory viruses e.g.  parainfluenza, rhinovirus, respiratory syncytial virus,and adenovirus can also present with similar symptoms which makes the clinical differentiation of influenza from other viruses difficult.
+
+Several kinds of influenza diagnostic tests are available in clinical settings with variable sensitivities and specificities. They include:
+
+Rapid influenza diagnostic Test (RIDT)
+Rapid influenza diagnostic tests (RIDTs) are the most common tests used in clinical settings. RIDTs work by detecting the parts of the virus (antigens) that stimulate an immune response. These tests can provide results within approximately 10-15 minutes but may not be as accurate as other flu tests as their reliability depends largely on the conditions under which they are used. Therefore, one could still have influenza, even though your rapid test result is negative.
+
+Rapid molecular assay 
+Rapid molecular assays are a new type of molecular influenza diagnostic test to detect influenza viral RNA or nucleic acids in upper respiratory tract specimens in approximately 15-30 minutes.  They are more accurate than RIDTs.
+
+In addition to RIDTs and rapid molecular assays, there are more accurate tests available that have to be performed in specialized laboratories. Results may take one to several hours. Proper collection, storage and transport of respiratory specimens is the essential first step for laboratory detection of influenza virus infections. Sample collection requires the healthcare provider to swipe the inside of your nose or the back of your throat with a swab and then send the swab for testing. The tests are discussed below:
+
+Reverse transcription polymerase chain reaction (RT-PCR)
+Reverse Transcription-Polymerase Chain Reaction (RT-PCR) can identify the presence of influenza viral RNA in respiratory specimens with very high sensitivity and specificity.
+
+Immunofluorescence assay (direct and indirect)
+Immunofluorescence assays are antigen detection assays that generally require use of a fluorescent microscope to produce results in approximately 2-4 hours with moderate sensitivity and high specificity. Both direct (DFA) and indirect fluorescent antibody (IFA) staining assays are available to detect influenza A and B viral antigens in respiratory tract specimens. Subtyping or further identification of influenza A viruses is not possible by immunofluorescence assays.
+
+Viral culture (shell vials; cell mixtures)
+Viral or rapid cell culture results do not yield timely results to inform clinical management. Shell-vial tissue culture results may take 1-3 days, while traditional tissue-cell viral culture results may take 3-10 days. However, viral culture allows for extensive antigenic and genetic characterization of influenza viruses. The collection of some respiratory samples for viral culture is essential for surveillance and antigenic characterization of new seasonal influenza A and B virus strains that may need to be included in next year’s influenza vaccine.
+  Serologic testing
+Serological testing for influenza is not recommended for clinical decision-making. Although offered by some commercial laboratories, serological testing results for antibodies to influenza A or B viruses on a single serum specimen cannot be reliably interpreted. Proper serological testing for diagnosis of influenza requires paired acute and convalescent sera collected 2-3 weeks apart, with reliable testing at a limited number of public health or research laboratories to assess a 4-fold or greater rise in influenza virus strain-specific antibodies. Therefore, serological testing for influenza does not provide timely results to help with clinical decisions-making and is not recommended except for research and public health investigations.
+
+H1N1 is a subtype of influenza and is commonly known as swine flu. Read about H1N1 qualitative RT-PCR.
+Click To Read!
+
+Celebs affected
+Walt Disney
+The wonderful world of Disney,” was not so magical when Walt was afflicted with the influenza virus. Assigned first to a training facility on the south side of Chicago, Disney came down with the flu. He returned home to be nursed back to health by his mother before rejoining the Corps in December.
+David Lyod George
+In September 1918, the Prime Minister of the United Kingdom encountered the influenza pandemic in Manchester, England, the city of his birth. He survived, and was widely hailed as the man who won the war.
+Prevention Of Influenza
+
+Influenza is commonly seen during seasonal changes and affects almost all age groups. It can be prevented to a certain extent through the following:
+
+Vaccination
+The best way to prevent influenza is to receive an influenza vaccination every year as stated by the Centers for Disease Control and Prevention (CDC). Anyone above the age 6 months and older should get vaccinated annually. The best time to get the flu vaccine is in the early fall months ie. August to October. It takes about 3 weeks for the vaccine to wield its protective benefits.
+
+Flu vaccines can vary in how well they work, but even in cases when flu vaccination does not prevent infection completely, it can reduce the severity and duration of disease and prevent serious complications especially in elderly patients.
+
+Vaccination is especially important for people at high risk of influenza complications, and for people who live with or care for the people at high risk. WHO recommends annual vaccination for the following groups of people:
+Health-care workers
+Pregnant women at any stage of pregnancy
+Children between 6 months to 5 years of age
+Elderly individuals above 65 years of age
+Individuals diagnosed with chronic medical conditions
+Although the flu vaccine is safe, it is contraindicated or not advised in case someone is:
+Allergic to eggs
+Allergic to a previous dose of any influenza vaccine
+Suffering from a fever. It is advisable to get the vaccine shot after recovering from illness.
+Having history of Guillain-Barré syndrome, a severely paralyzing condition, after getting the flu vaccine
+Nasal flu vaccine which is administered through the nose is also available for prevention of flu. However, it is not advised in the following: 
+Children and adolescents who are taking aspirin or any type of salicylate-containing medications.
+Children who are 2 to 4 years of age who have been diagnosed with asthma or have a history of wheezing.
+Immunocompromised patients.
+Caregivers or close contacts of severely immunosuppressed patients.
+Pregnant women.
+Patients who have received antiviral drugs to treat the flu within the past 48 hours.
+Note: Pre-exposure or post-exposure prophylaxis with antivirals is possible but depends on several factors e.g. individual factors, type of exposure, and risk associated with the exposure. Learn more about inactivated influenza vaccines.
+Click Now!
+
+
+Chemoprophylaxis strategy
+Available antiviral drugs play an important role for patients who have not been immunized or who are nonresponsive to vaccines. Oseltamivir and zanamivir are the recommended drugs for the prevention of influenza based on their established efficacy and low rates of resistance in comparison to adamantanes that include the oral medications amantadine and rimantadine that block the M2 ion channel on influenza A viruses. Some indications for chemoprophylaxis include:
+Influenza prophylaxis should be given during influenza outbreaks in long-term care centers in the elderly regardless of prior influenza vaccinations
+To be given in unvaccinated individuals at high risk of influenza complications who have been exposed to an individual with influenza infections within the previous 48 hours
+For vaccinated persons at high risk of influenza complications who have had close contact with an individual with influenza within the previous 48 hours when there is a poor match between the vaccine and circulating viruses in a given year
+The United States’ ACIP recommends that antiviral chemoprophylaxis be considered in pregnant women and in women up to 2 weeks postpartum who have close contact with suspected or confirmed influenza A-infected individuals. Zanamivir may be the drug of choice for prophylaxis due to its limited systemic absorption
+General measures
+Apart from vaccination and antiviral treatment, the public health management includes maintaining personal protection through:
+Washing hands regularly with proper drying of the hands
+Covering mouth and nose when coughing or sneezing, using tissues and disposing of them correctly
+Self-isolating at an early stage of those feeling unwell, feverish and having other symptoms of influenza
+Avoiding close contact with sick people
+Avoiding touching one’s eyes, nose or mouth.
+Kids, pregnant women, diabetics, elderly people and those with a weak immune system are at a high risk of suffering from this viral infection. Hence, it is wise to follow preventive measures to protect from seasonal flu rather than get it treated after acquiring the infection.Read about 7 tips to prevent seasonal flu.
+Click Here!
+Specialist To Visit
+
+Most people who have the flu (influenza) have a mild illness and can be managed at home. However if any individual has fever above 100 F (38 C), cough or sore throat might need medical interventions from:
+General physician
+Pediatrician
+If you are facing such an issue, seek advice from our professionals. 
+Consult Now!
+
+
+Treatment Of Influenza
+
+Influenza also known as flu causes mild illness generally and the treatment depends on the condition of the patient, that includes:
+
+Patients with uncomplicated seasonal influenza
+Patients that are not from a high risk group should be managed with symptomatic treatment. If they are symptomatic it is best to stay home in order to minimize the risk of infecting others in the community. Treatment mainly focuses on relieving symptoms of influenza such as fever, cough, cold or sore throat. Patients should monitor themselves to detect if their condition deteriorates and seek medical attention.
+
+Patients that are known to be in a group at high risk for developing severe or complicated illness should be treated with antivirals in addition to symptomatic treatment as soon as possible.
+
+Patients with severe or progressive clinical illness 
+Patients associated with suspected or confirmed influenza virus infection like clinical syndromes of pneumonia, sepsis or exacerbation of chronic underlying diseases, should be treated with antiviral drugs as soon as possible. These drugs may shorten the illness and help prevent serious complications. The drugs are discussed as follows:
+
+Oseltamivir phosphate (Tamiflu): This is an oral prescription drug used to treat influenza in patients who are two weeks of age and older. It is also approved to prevent flu in patients who are one year of age and older. Important points regarding this drug are:
+This drug should be prescribed as soon as possible (ideally, within 48 hours following symptom onset) to maximize therapeutic benefits.
+Administration of the drug should also be considered in patients presenting later in the course of illness.
+Treatment is recommended for a minimum of 5 days, but can be extended until there is satisfactory clinical improvement.
+Potential side effects include nausea, vomiting, nosebleeds, headaches and tiredness.
+Zanamivir (Relenza): This drug is approved to treat flu in patients seven years and older, and to prevent flu in patients who are five and older. This product is inhaled through a device similar to an asthma inhaler. It is not recommended for people who have certain chronic respiratory illnesses like asthma or COPD. Common side effects of the drug include headache, nausea, diarrhea, nose irritation and vomiting.
+
+Peramivir (Rapivab): Peramivir is approved to treat influenza in patients 2 years and older. This drug is injected into the vein (intravenously) by a healthcare provider. A common side effect of this drug is diarrhea.
+
+Baloxavir (Xofluza): This drug is approved to treat flu in people 12 years old and older. Common side effects include diarrhea, bronchitis, nausea and headache.
+
+Antiviral drugs: Antiviral drugs like amantadine and rimantadine (Flumadine) are older antiviral drugs which are approved to treat influenza, but most circulating strains of influenza have become resistant to them. Hence, they are no longer recommended.
+
+Corticosteroids: These should not be used routinely, unless indicated for other reasons (eg: asthma and other specific conditions); as it has been associated with prolonged viral clearance, immunosuppression leading to bacterial or fungal superinfection.
+
+Corticosteroids are powerful anti-inflammatory drugs which are used to provide symptomatic relief from inflammation, swelling, redness, and itching. Read about do’s and don'ts you need to know about corticosteroids.
+Click Here!
+Home-care For Influenza
+
+Influenza or flu is caused by a virus. While it causes mild sickness it can also cause symptoms like stuffy nose, sore throat and fever. Here are some homecare tips that can help soothe flu symptoms and may also shorten the duration of the flu. They are:
+Drink a lot of liquids to be well hydrated and keep the throat, nose and mouth moist
+Increase your fluid intake in the form of coconut water, fresh fruit juices, broths, herbal teas, and soups.
+Get adequate rest to fight the fatigue and malaise
+Uptake the mineral intake. Use zinc and Vitamin C to boost the immunity
+Do rigorous salt water gargles to relieve symptoms of sore throat
+Take lozenges, these will provide soothing effect to the throat
+Eat a well balanced diet and get all the nutrition. Food items to include are:
+Eggs
+Dairy products
+Cereals
+Green leafy vegetables
+Fresh fruits
+Dry fruits
+Apply essential oils directly on the chest, throat and nose as they have antiviral and antibacterial properties, and do not ingest them. Some of the beneficial essential oils are:
+Cinnamon oil
+Peppermint oil
+Eucalyptus oil
+Geranium oil
+Lemon oil
+Thyme oil
+Oregano oil
+Do steam inhalation in case of stuffy nose as the vapors from the steam can help loosen the loose mucus congestion, relieve swelling in the nose and lungs and help to soothe a dry cough, irritated nose, and chest tightness.
+Use a humidifier to add humidity in your home and workplace that might help reduce flu viruses in the air.
+Avoid certain foods in case of diarrhea and vomiting. These food items include:
+Caffeine
+Meats
+Spicy foods
+Fied foods
+Fatty foods
+Alcohol
+Apply vapor rub and keep yourself warm.
+Blow the nose in the right way i.e. press a finger over one nostril while blowing gently to clear the other.
+Most people are prone to common cold during winters, however, it is possible to catch a cold all around the year. Hence, it is important to follow a few tips that can reduce the risk of catching a cold. Read about 5 Simple tips to prevent the common cold.
+Tap Now!
+Complications Of Influenza
+
+Influenza is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and sometimes the lungs. It generally causes mild to moderate symptoms, but in certain cases can lead to complications that include:
+
+Pneumonia
+The most important and common complication of influenza is pneumonia that may happen as a continuation of the acute influenza syndrome when caused by the influenza virus (primary pneumonia) or as a mixed viral and bacterial infection after a gap of a few days (secondary pneumonia).
+
+Primary influenza viral pneumonia
+The illness occurs after the typical course of flu with a rapid progression of fever, shortness of breath, cough, cyanosis (low blood oxygen), and difficulty breathing. It happens predominantly among individuals with cardiovascular or underlying pulmonary diseases such as asthma. 
+
+The most severe cases progress rapidly to acute respiratory distress syndrome (when fluid builds up in the tiny, elastic air sacs (alveoli) in the lungs) along with involvement of multiple lobes. These patients usually present with progressive dyspnea (shortness of breath) and severe hypoxemia (when enough oxygen is not available to maintain the self regulating mechanism in the body) 2 to 5 days after the onset of typical influenza symptoms. Hypoxemia increases rapidly and causes respiratory failure, requiring intubation and mechanical ventilation, maybe after only 1 day of hospitalization.
+
+Secondary bacterial pneumonia
+Recently, community–acquired methicillin-resistant Staphylococcus aureus was determined as the causative agent for secondary bacterial pneumonia after seasonal influenza,but another very common etiologic bacterium is Streptococcus pneumonia. The patients have a classic influenza disease, followed by an improvement period lasting for maximum 2 weeks.The recurrence of the symptoms such as fever, productive cough, and dyspnea and findings of new consolidations in chest imaging can be found in involved patients. Accordingly, a biphasic pattern of signs and symptoms in influenza-labeled patients should be considered as secondary superimposed bacterial pneumonia.
+
+Non-pulmonary complications
+In addition to its respiratory effects, the virus can exert effects on other body systems such as the musculoskeletal, cardiac, and neurologic systems. Some of the extrapulmonary symptoms include:
+Myocarditis (inflammation of heart muscle)
+Pericarditis (inflammation of saclike covering of the heart)
+Stroke
+Encephalopathy (brain damage due to virus, bacteria, or toxins)
+Mild myositis (weak, painful or aching muscles)
+Myoglobinuria (excessive protein called myoglobin in urine)
+Other rare complications such as
+Guillain–Barré syndrome (a rare disorder in which your body's immune system attacks your nerves. Weakness and tingling in your extremities)
+Acute liver failure
+Reye syndrome
+Did you know?
+According to the World Health Organization (WHO), globally, on an average, around 3-5 million people suffer from the flu every year. Furthermore, the flu causes around 2,90,000 – 6,50,000 deaths every year. Read about 5 ways to stay “SAFE” this flu season.
+Click Now!
+Alternative Therapies For Influenza
+
+Influenza is contagious and can cause mild to severe illness. Alternative therapy along with medications that can help in fighting the flu and relieve the symptoms include:
+
+Natural therapy
+There are a dozen things to do while the individual has the flu, but the age-old natural remedies can never go wrong. Here is a list of natural ingredients that can help:
+
+1. Garlic (Lahsun)
+Garlic provides many health benefits like enhancing the immune function and decreasing the severity of flu. 
+
+2. Ginger (Adrak)
+Ginger is widely used in herbal medicine and as a well known home remedy to beat nausea. Adding ginger to the tea can soothe the throat as well.
+
+3. Herbal tea
+An herbal tea may help your body fight off the flu virus. A hot herbal drink is also soothing to the throat and sinuses.
+
+4. Honey (Shahad)
+There are numerous benefits of honey-like antibacterial properties, stimulating the immune system, relieving seasonal allergy, and helping in suppressing cough in children.
+
+5. Turmeric (Haldi)
+It helps the body to naturally cleanse the respiratory tract, and helps fight the infection and relieves direct impact of cold and flu due to its anti-inflammatory properties.
+
+6. Spices
+Certain spices, such as pepper and horseradish, can help break up congestion and help breathe better.
+
+7. Yogurt (Dahi)
+Yogurt with live cultures not only can help soothe a sore throat but can also boost the immune system.
+Living With Influenza
+
+People with flu are most contagious in the first 3-4 days after their illness begins. Some otherwise healthy adults may be able to infect others beginning 1 day before symptoms develop and up to 5 to 7 days after becoming sick. Here are a few tips to follow during the sickness to prevent the spread and as well as get better:
+Maintain personal hygiene
+Always cover nose and mouth while sneezing
+Maintain social distancing
+Wash the hands regularly
+Rest well
+Have adequate fluids
+Take steam inhalations 2-3 times a day
+Stay warm and cozy
+Avoid cold items 
+Drink hot soups and broths
+Apply vapor rubs or essential oils on the nose, throat and chest.
+Eat well balanced and nutritious meals.
+Every person is different and so are the nutritional requirements. Read about some dietary guidelines that you should follow for a proper balanced diet.
+Click To Read!
+
+Frequently Asked Questions
+What is the vaccine for influenza?
+Are seasonal influenza (flu) vaccines safe?
+How long does influenza last?
+When is the best time to get flu vaccination?
+Is the BRAT diet recommended for influenza?
+References
+Moghadami M. A Narrative Review of Influenza: A Seasonal and Pandemic Disease. Iran J Med Sci. 2017.
+Chow EJ, Doyle JD, Uyeki TM. Influenza virus-related critical illness: prevention, diagnosis, treatment. Crit Care. 2019;23(1):214. Published 2019 Jun 12.
+Keiko, Mitamuraa, Masahiko, et al. Clinical usefulness of a rapid molecular assay, ID NOW™ influenza A & B 2, in adults. Volume 27, Issue 3, March 2021.
+Overview of Influenza Testing Methods. Influenza (Flu). Centers for Disease Control and Prevention. Aug 2020.
+Ask the expert: Influenza Q&A. Influenza (seasonal). World Health Organization. Nov 2018.
+Burden. Flu (Influenza). National Foundation for Infectious Diseases. Jan 2022.
+What is the flu? Flu (Influenza). Nemours Kids Health. Sep 2021.
+Siddharth V, Goyal V, Koushal VK. Clinical-Epidemiological Profile of Influenza A H1N1 Cases at a Tertiary Care Institute of India. Indian J Community Med. 2012 Oct.
+Did our information help you?
+In our relentless endeavour to keep improving our services, you are our eyes. Kindly take out sometime to guide us on how to serve your better.
+Share your feedback
+Subscribe to stay informed
+Subscribe to our carefully crafted informative emailers by Medical Experts and be the first to get the latest health news, tips and important updates.
+Submit
+Disclaimer
+Tata 1mg's sole intention is to ensure that its consumers get information that is expert-reviewed, accurate and trustworthy. However, the information contained herein should NOT be used as a substitute for the advice of a qualified physician. The information provided here is for informational purposes only. This may not cover all possible side effects, drug interactions or warnings or alerts. Please consult your doctor and discuss all your queries related to any disease or medicine. We intend to support, not replace, the doctor-patient relationship.

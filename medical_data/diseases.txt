@@ -1,0 +1,215 @@
+acidity
+acne
+addison s disease
+airplane ear
+allergic conditions
+alzheimer s disease
+amenorrhea
+anal fissure
+anaphylaxis
+anorexia nervosa
+anxiety
+appendicitis
+arthritis
+ascites
+asthma
+autism
+back pain
+bell s palsy
+benign prostatic hyperplasia
+bipolar disorder
+bloating
+blood cancer
+body ache
+breast cancer
+bronchitis
+bulimia nervosa
+cataract
+cervical cancer
+chickenpox
+chikungunya
+choking
+cholera
+colon cancer
+color blindness
+common cold
+conjunctivitis
+constipation
+corns
+coronary artery disease
+cough
+cracked heels
+crohn s disease
+cuts and puncture wounds
+dandruff
+dehydration
+dementia
+dengue
+dental pain
+depression
+diabetes
+diphtheria
+dizziness
+down syndrome
+dry eyes
+dry skin
+dysentery
+ear pain
+earwax
+ectopic pregnancy
+eczema
+edema
+encephalitis
+endometriosis
+epilepsy
+erectile dysfunction
+excessive sweating
+fainting syncope
+fatty liver disease
+female infertility
+fistula
+food allergies
+food poisoning
+fungal skin infections
+gallbladder stones
+gastritis
+gastroenteritis
+gestational diabetes
+glaucoma
+goiter
+gonorrhea
+gout
+h1n1 influenza swine flu
+hair loss
+hand foot and mouth disease
+headache
+head lice
+heart attack
+heart failure
+hepatitis a
+hernia
+herpes simplex virus infections
+hiccups
+hirsutism
+hiv infection
+hypercalcemia
+hyperpigmentation
+hypertension high blood pressure
+hyperthyroidism
+hypocalcemia
+hypoglycemia low blood sugar
+hypothyroidism
+indigestion
+inflammation within blood vessels vasculitis
+influenza flu
+insomnia
+iron deficiency anemia
+irritable bowel syndrome
+japanese encephalitis
+jaundice
+joint pain
+keratitis
+kidney cancer
+kidney failure
+kidney stone
+lactose intolerance
+leprosy
+leptospirosis
+liver cirrhosis
+low immunity
+lung cancer
+malaria
+male infertility
+measles
+melanoma
+melasma
+meningitis
+menopause
+migraine
+monkeypox
+motion sickness
+mouth ulcers
+mucormycosis
+multiple myeloma
+multiple sclerosis ms
+mumps
+myocarditis
+nail infections
+narcolepsy uncontrollable daytime sleepiness
+nausea
+neck pain
+neonatal jaundice
+nose bleeding
+obesity
+obsessive compulsive disorder
+oral cancer
+oral thrush
+osteoarthritis
+osteomalacia
+osteoporosis
+palpitations
+pancreatic cancer
+pancreatitis
+peptic ulcer disease
+period pain menstrual cramps
+piles
+pneumonia
+polio
+polycystic ovarian syndrome pcos
+postpartum depression
+premature labor
+premenstrual syndrome pms
+prostate cancer
+prostatitis
+psoriasis
+pulmonary embolism
+q fever
+rabies
+rheumatoid arthritis
+rickets
+ringworm
+rosacea
+rubella
+scabies
+schizophrenia
+sciatica
+sepsis
+sinusitis
+sjogren s syndrome
+sleep apnea
+sore throat
+spondylosis
+stress
+stroke
+stye
+sunburn
+syphilis
+testicular cancer
+tetanus
+thalassemia
+thrombocytopenia
+tiredness
+tonsilitis
+trigeminal neuralgia
+tuberculosis tb
+type 2 diabetes mellitus
+typhoid fever
+ulcerative colitis
+urinary incontinence
+urinary tract infections utis
+urticaria
+uterine fibroids
+vaginal discharge
+vaginal yeast infection
+varicose veins
+vertigo
+vitamin d deficiency
+vitiligo
+vomiting
+whooping cough
+wilson s disease
+xerophthalmia
+xerostomia
+yellow fever
+zika virus disease
+zinc deficiency

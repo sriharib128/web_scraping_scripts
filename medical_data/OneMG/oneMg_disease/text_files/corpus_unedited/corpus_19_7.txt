@@ -1,0 +1,263 @@
+Tuberculosis (TB)
+Also known as TB, Koch's Disease
+Overview
+Tuberculosis is one of the top 10 causes of mortality worldwide. Tuberculosis is caused by a bacterium called Mycobacterium Tuberculosis. Tuberculosis is an infectious disease that primarily affects the respiratory system, but it can also affect other systems, such as the gastrointestinal system, musculoskeletal system, nervous system, etc. It may be present as a latent or an active infection. Active cases can be presented with symptoms like cough, hemoptysis (blood in the sputum), fever, weight loss, etc. 
+
+Tuberculosis treatment comprises a combination of drugs and may continue for a long period for complete elimination of bacteria and to avoid resistance against antibiotics used.. Most patients recover completely from the disease. However, vulnerable patients, such as HIV-affected individuals or those with lower immunity, suffer from a severe type of disease.      
+
+In 2019, an estimated 10 million people suffered from tuberculosis, of which 2.6 million were Indians. Although the cases of TB in India are high, the Government provides support to all the TB patients with programmes such as NTEP, DOTS and Nikshay patrika, which are aimed to improve treatment with free medicines and support.
+Key Facts
+Usually seen in
+All age groups
+Gender affected
+Both men and women but more common in men
+Body part(s) involved
+Lungs
+Intestine
+Bones
+Brain
+Blood
+Prevalence
+Worldwide: 10 Million (2019)
+India: 2.64 Million (2019)
+Mimicking Conditions
+Pneumonia
+Lung cancer
+Fungal infection of the lung
+Sarcoidosis
+Necessary health tests/imaging
+CB-NAAT
+Mantoux test
+Stain AFB (ZN Stain), sputum
+Mycobacterium tuberculosis DNA PCR - Qualitative -Sputum
+TB Platinum Interferon gamma release assay
+Complete Blood Count
+Erythrocyte Sedimentation Rate
+Treatment
+Antibiotics
+Isoniazid
+Rifampicin
+Pyrazinamide
+Ethambutol
+Amikacin
+Streptomycin
+Antipyretics & Painkillers
+Antitussives
+B-complex Vitamins
+See All
+Symptoms Of Tuberculosis
+
+Pulmonary tuberculosis or TB of the lungs is the most common type of TB. Other types such as the TB of the bones, lymph nodes, brain, kidneys, intestine, and genitals are also seen.
+
+Symptoms of Pulmonary TB
+Tuberculosis most commonly affects the lungs and can cause the following symptoms:
+Coughing that lasts for more than 2 weeks with or without fever 
+Fever, especially an evening rise in body temperature
+Presence of blood in the sputum
+Chest pain
+Loss of appetite
+Loss of weight
+Chronic fatigue
+Night sweats and chills
+Symptoms of TB other than pulmonary TB : 
+Occasionally, tuberculosis may also affect other organs, such as bones, stomach, etc., and presents with common symptoms like fever, weight and appetite loss and some specific symptoms related to organ system involved like ::
+Bone TB involving the spine can cause back pain and neurological complications like paraplegia where the lower limbs become paralyzed.
+Gastrointestinal system disease can cause nausea, vomiting, diarrhea, malabsorption etc.
+Tuberculosis of the kidneys can cause blood in the urine.
+Infection involving the brain and its covering membrane can cause seizures, headaches, neurological abnormalities, etc.
+Here’s everything about TB causes, symptoms & treatment (in Hindi). Watch the video to know more.
+Causes Of Tuberculosis
+
+Tuberculosis is caused by a bacterium called Mycobacterium tuberculosis. TB usually spreads from one person to the other through the air. When a person suffering from TB sneezes, coughs or spits, the bacteria gets into the air. Hence, when a person inhales even a few of these bacteria from the air, he/she becomes infected. Although it is contagious, the bacteria grows at a slow rate and requires you to spend considerable time around the person who is sick. This means, it requires close and prolonged contact with a person who has active tuberculosis.
+
+Remember! Tuberculosis cannot spread through a simple handshake or sharing utensils as the bacteria cannot survive for long outside of the human body. 
+Types Of Tuberculosis
+
+There are 5 different types of tuberculosis based on the type of infection. These include:
+1. Latent tuberculosis
+Latent tuberculosis does not cause any symptoms as the body’s immune system keeps the infection at bay. In latent tuberculosis, the person carries the bacteria but does not develop any symptomHowever, there is a possibility that the latent infection may reactivate at a later stage in life when the body’s immune defenses go down and may lead to active disease.
+2. Active tuberculosis
+Active tuberculosis refers to a condition where the bacteria are in an active stage and cause symptoms. Active tuberculosis can be further classified into pulmonary and systemic tuberculosis. Although tuberculosis is primarily a disease of the lungs (pulmonary TB), it may affect other organs in the body, such as bones, lymph nodes, brain, kidneys, intestine, and reproductive system. When active tuberculosis is present in other parts of the body, it is known as systemic tuberculosis.
+
+3. Disseminated tuberculosis
+Also known as miliary tuberculosis, this is a severe type of infection where the tuberculosis bacteria spread to the entire body through the bloodstream. 
+4. Multidrug resistant tuberculosis (MDR TB)
+This type of tuberculosis is caused by a bacteria which is resistant to at least two most common and potent drugs used to treat TB namey isoniazid and rifampin.
+5. Extensively drug resistant tuberculosis (XDR TB)
+
+This is a rare type of tuberculosis in which the bacteria is resistant to more than two drugs used to treat TB. In addition to isoniazid and rifampin, people suffering from XDR TB are resistant to fluoroquinolones (an antibacterial medicine) and at least one of three injectable second-line drugs used to treat bacteria. 
+Risk Factors Of Tuberculosis
+
+Although all age groups are at risk of TB, the risk is higher in people who:
+Live in or travel to a country with a higher prevalence of tuberculosis such as tropical and developing countries.
+Work in places constantly exposed to crowds, such as hospitals, community centers, prisons, etc.
+Suffer from malnourishment. It is seen that undernourished people are 3 times more at risk of TB as compared to healthy people.
+Suffer from diabetes or are on medicines such as steroids or anti-cancer drug therapy.
+Suffer from weakened immunity or are recovering from an illness.
+Are infected with HIV/AIDS as the risk of getting tuberculosis is 18 times higher for patients with HIV.
+Consume excess alcohol and smoke tobacco products. 
+Did you know?
+Vitamin A deficiency is tied to increased chances of tuberculosis. As per the study, the risk of acquiring tuberculosis was 20 times more in young people aged between 10-19 years of age. The study suggested that people who were vitamin A deficient were at an increased risk (10 times) of contracting tuberculosis from those already infected with the disease. Check out our vitamins and supplements range to fill up your nutritional quota.
+Explore Now!
+Diagnosis Of Tuberculosis
+
+Along with a detailed history and physical examination, the doctor also orders laboratory tests and imaging studies to confirm a suspected case of tuberculosis. Following tests are used to confirm a diagnosis:
+
+Laboratory tests
+Blood Tests
+Cartridge based nucleic acid amplification test (CB-NAAT) is a rapid molecular test that helps to detect TB. It not only identifies the bacteria responsible for TB but also helps to find rifampicin resistance bacteria within two hours. It is recommended by WHO as an initial diagnostic test to check for TB in suspected cases of pulmonary and other forms of TB, especially in children.
+TB Platinum Interferon Gamma Release Assay is used to check for the body’s immune response to the tuberculosis bacteria.
+Other tests such as Complete Blood Count, Erythrocyte Sedimentation Rate are performed to evaluate the body’s response to infection.
+HIV 1 And 2 Antibody. As tuberculosis is highly associated with HIV, doctors usually check for the likelihood of HIV exposure when tuberculosis is suspected. 
+Sputum analysis
+Sputum samples are analyzed using tests like stain AFB (ZN Stain), sputum, and Mycobacterium tuberculosis DNA PCR - Qualitative -Sputum. These tests help to check for the presence of tuberculosis bacteria in the sputum. A positive test confirms the diagnosis of tuberculosis. 
+
+Skin prick test
+This is also known as the Mantoux test. It is a screening test used to determine a person’s risk of TB infection or the risk of the progression of the disease, if infected. For this, a small amount of tuberculin is injected into the skin. If swelling or reaction occurs at the site of injection within 48-72 hours, it is considered a positive test and indicates exposure to the tuberculosis bacteria. False-positive test results are possible if the person has been vaccinated for tuberculosis recently.
+
+Imaging studies
+In pulmonary tuberculosis cases, imaging studies like X-Ray chest PA View, HRCT chest - plain are required to evaluate the extent of the disease in the lungs. In extrapulmonary tuberculosis cases, other imaging studies, such as X-Ray dorsal spine AP & lateral view, MRI brain, etc., may be done as appropriate.
+Celebs affected
+Amitabh Bachchan
+Bollywood superstar Amitabh Bachchan suffered from tuberculosis in the year 2000.
+Muhammad Ali Jinnah
+A famous politician and the founder of Pakistan, Muhammad Ali Jinnah, succumbed to tuberculosis
+Prevention Of Tuberculosis
+
+There are two types of preventive measures:
+1. Prevent the spread of tuberculosis
+As tuberculosis spreads through infected droplets, it is important for a patient with active tuberculosis to follow certain hygiene measures to prevent the transmission of the infection. 
+Always cover your mouth with a handkerchief when coughing or sneezing to prevent the spread of droplets.
+Patients with active tuberculosis must wear a surgical mask in the presence of others to prevent the transmission of droplets.
+Wash your hands with soap and water or use hand sanitizers frequently to keep your hands clean.
+The room where a patient with active tuberculosis lives must be well ventilated and should be cleaned with a disinfectant every day.
+The pasteurization of milk also helps to prevent humans from getting bovine TB.
+The last but the most important point is to complete your course of TB treatment because by doing so you not only lower your risk of recurrence/remission but also prevent community transmission of the disease.
+  2. Vaccines for tuberculosis
+In countries where tuberculosis infections are rampant, babies are given the BCG (Bacillus Calmette Guerin) vaccine at birth to provide immunity against the disease. 
+
+TB is NOT a genetic disease. To know about other common myths click here!
+Read The Article!
+Specialist To Visit
+
+If you have symptoms, such as prolonged cough, bloody sputum, fever, unexplained weight loss, you must seek prompt medical care. The specialist doctors who diagnose and treat tuberculosis are:
+General physician
+Chest physician
+Infectious disease specialist
+Respiratory specialist or pulmonologist
+
+Consult India's best doctors online with a single click. Book an appointment now!
+Click Here!
+
+Treatment Of Tuberculosis
+
+The treatment for tuberculosis depends on the type of infection.
+
+Latent tuberculosis
+In India, if you have tested positive for tuberculosis in a screening test, treatment may be recommended only if you belong to the high risk category. The medicines for latent tuberculosis must be taken for a duration of 6 to 9 months as prescribed by a doctor.
+  Active tuberculosis
+Antibiotics are the main treatment options for people suffering from TB. The treatment approach usually involves taking these drugs for a span of several months. These medicines are usually given in combination as part of a regimen to effectively treat tuberculosis. These medicines kill the bacteria causing tuberculosis or prevent its growth.
+  The first line of treatment for active tuberculosis consists of combination therapy with five antitubercular drugs. Of these, streptomycin is given in the form of an injection, whereas a single tablet consisting of all the four medicines (isoniazid, rifampicin, pyrazinamide and ethambutol) is available. The dose of this combination medicine is based on the weight of the patient. 
+  Easy-to-use combination kits, containing a combination of the first-line antitubercular drugs are also readily available. The treatment continues for 6-8 months even if the symptoms get better, as it ensures complete recovery and prevents the development of drug resistance.
+  The DOTS regimen (Directly Observed Therapy - Short Term) is followed in India, where the patient has to take the medicine in front of a DOTS agent. This is to ensure adherence to the treatment.
+  MDR TB and XDR TB
+The tuberculosis bacteria are prone to develop drug resistance. Some patients do not respond to the first line of treatment and develop multi-drug resistant tuberculosis or MDR-TB. There are strains of bacteria resistant to most forms of available drugs and cause a severe form of the disease known as extensively drug-resistant tuberculosis or XDR-TB.
+  Treatment options for MDR and XDR tuberculosis consist of higher dosing of the first line of drugs and a combination of other oral medicines and injections. The course of the treatment is usually 18 months for MDR-TB and 224 months for XDR-TB.
+  Some of the common examples include:
+Amikacin injections
+Streptomycin injections
+Levofloxacin preparations
+Moxifloxacin preparations
+Para-amino salicylic acid 
+Clofazimine preparations
+Imipenem injections
+Clarithromycin preparations
+Bedaquiline
+  Supportive care
+This involves use of medications aimed to improve the symptoms such as fever, cough, and pain. Some of the common class of drugs used for supportive care of TB are:
+Anti-fever and analgesic medicines to provide relief from fever and pain.
+Antitussive medications to help reduce cough.
+Vitamin B supplements given along with antitubercular medicines to help combat neurological side effects like nerve pain and neuropathies caused by antitubercular medicines.
+Antacids to prevent gastro-intestinal symptoms
+Medicines to reduce uric acid level (hyperuricemia is known to be a side-effect of TB medicines) such as allopurinol and febuxostat are recommended.
+In some cases, a herbal medicine/tonic for the liver is recommended as antitubercular medicines can impact the liver.
+Did you know?
+“TB cannot be cured” is a myth. In reality, it can be cured for lifetime if a proper treatment plan is followed as it is a bacterial disease. The key is to complete the medication course as advised by your doctor as not abiding by the treatment plan can lead to resistance to antibiotics and relapse of the disease. Get the right treatment from the right expert.
+Consult Now!
+Home Care For Tuberculosis
+
+With active tuberculosis, you can do the following things to care for yourself at home:
+Always use a handkerchief to cover your mouth and nose while sneezing or coughing.
+Wash your hands frequently with soap and water or use hand sanitizers.
+Take a balanced diet rich in vitamins and minerals.
+Drink plenty of fluids throughout the day.
+Take plenty of rest. Do not engage in any strenuous activities.
+Take the entire course of medicines prescribed by the doctor, even if your symptoms reduce or you start feeling better.
+ Complications Of Tuberculosis
+
+Most patients recover completely from tuberculosis. However, it may cause serious complications, especially in HIV patients and those who suffer from immunocompromised states. Leaving tuberculosis untreated may further lead to:
+Miliary tuberculosis or disseminated tuberculosis
+Pleural effusion, pneumothorax, empyema - an accumulation of fluids, air, or pus, respectively, in the lungs
+Acute respiratory distress syndrome or fluid build-up in the lungs
+Paraplegia or paralysis of the lower body due to tuberculosis of the spine
+Tuberculous arthritis of hips or knees
+Infertility in men and women, in TB of reproductive organs
+Seizures and growth retardation, in TB of the brain
+MDR TB and XDR TB
+Alternative Therapies For Tuberculosis
+
+There is a limited role of alternative therapies in the treatment of tuberculosis. 
+  Chest physiotherapy may help with the removal of secretions from the lung and improve lung function. It uses different types of breathing exercises. It also includes postural drainage, advising patients to sleep in different positions such as sleeping on the back with their head down. These positions are believed to help in removal of secretions in the lung with help of gravity.
+  Herbal preparations from medicinal plants such as ginger, turmeric, cinnamon, etc., may have a role in providing symptomatic relief from cough. 
+
+Check out our Ayurveda page for detailed information about medicinal herbs.
+Click Here!
+
+Living With Tuberculosis
+
+Tuberculosis is a disease that is often associated with a stigma as there are many misconceptions surrounding it. However, with recent improvements in available treatments and public awareness campaigns, the stigma of the disease is declining, and more and more people are recovering completely from the disease. In the active phase of the disease, it is advisable to refrain from interacting with many people and avoid crowded places to prevent transmission. Here are a few tips you need to keep in mind if you are on medications for tuberculosis:
+Maintain a routine if you are taking medications by yourself like taking medicines at the same time every day, marking off the date on a calendar or using a weekly pill dispenser.
+Inform your doctor if you experience any unusual symptoms or side effects of the medications. Your doctor might consider changing the drugs.
+Make sure you complete your course of medications. Not finishing the course or stopping the medications mid-way can not only increase the risk of getting sick and spreading the infection again but can also make the bacteria resistant to the drugs.
+Do not forget to follow cough etiquettes like covering your mouth when sneezing or coughing and throwing a used tissue in the trash can.
+Ask your doctor about the improvement in your condition, the change in medications, lab tests to be taken, and any questions you have related to the condition. This will help you understand the condition & take care of your health
+Caregivers should ensure to avoid close contact with the patient, If possible, let the patient share a single room with proper ventilation.
+Eat a diet rich in nutrients like vitamins, minerals, and antioxidants. Avoid eating oily, salty and spicy food. Opt for home cooked foods to boost your immunity and stay healthy.
+
+Psychosocial impact of TB
+  Although TB is quite common in India, there are still a lot of myths and stigma associated with the condition. Also, lack of support from family and community as well as lack of knowledge about the disease in general and its treatment does affect the overall physical as well as mental state of the patient. Moreover, the long duration of the TB treatment and the economic hardships tend to be exhausting for the patient. This when coupled with a negative emotional status of the patient is known to increase the risk of mental problems such as anxiety and depression, which can further impact the treatment.
+  This can be dealt with proper awareness about the disease by both the patient and the community. For example:
+Medicines free of cost are available for all TB patients at Government hospitals.
+Latest guidelines, information and programmes about TB can be easily accessed through  Nikshay Patrika, a quarterly newsletter by the Central Tuberculosis Division.
+DOTS treatment is free of cost and helps prevent failure of the treatment and lowers the risk of  MDR-TB by ensuring strict adherence and uninterrupted treatment for TB.
+Unlike pulmonary TB, other forms of TB don't spread through close contact. So avoid shunning the patient from your social circle/community but support them to fight the disease.
+Reach out to NGOs and community support groups related to TB which can help you support both physically, emotionally and financially.
+Frequently Asked Questions
+Is tuberculosis deadly?
+Can tuberculosis happen twice?
+Can I recover completely from tuberculosis?
+How long do I need to take the medicines for tuberculosis?
+Can tuberculosis affect young individuals?
+Can tuberculosis be cured in HIV co-infection?
+What is DOTS?
+What is NTEP?
+References
+Barberis I, Bragazzi NL, Galluzzo L, Martini M. The history of tuberculosis: from the first historical records to the isolation of Koch's bacillus. J Prev Med Hyg. 2017;58(1):E9-E12.
+Tuberculosis. World Health Organisation.
+Tuberculosis. Centres for Disease Control.
+Tuberculosis. Harvard Health Publishing.
+Diagnostic Standards and Classification of Tuberculosis in Adults and Children. This official statement of the American Thoracic Society and the Centers for Disease Control and Prevention was adopted by the ATS Board of Directors, July 1999. This statement was endorsed by the Council of the Infectious Disease Society of America, September 1999. Am J Respir Crit Care Med. 2000 Apr;161(4 Pt 1):1376-95.
+Adigun R, Singh R. Tuberculosis. [Updated 2020 Oct 27]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2021 Jan-.
+Zaman K. Tuberculosis: a global health problem. J Health Popul Nutr. 2010 Apr;28(2):111-3.
+Institute of Medicine (US). Facing the Reality of Drug-Resistant Tuberculosis in India: Challenges and Potential Solutions: Summary of a Joint Workshop by the Institute of Medicine, the Indian National Science Academy, and the Indian Council of Medical Research. Washington (DC): National Academies Press (US); 2012. 2, Drug-Resistant TB in India.
+Shrinivasan R, Rane S, Pai M. India's syndemic of tuberculosis and COVID-19. BMJ Glob Health. 2020;5(11).
+Nikshay Patrika. Inaugural Issue. Jan-Mar 2018. Volume 01. Quarterly Publication of Central TB Division. Ministry of Health and Family Welfare. Government Of India.
+Central TB Division. Ministry of Health and Family Welfare. Government Of India. National Tuberculosis Elimination Programme.
+Did our information help you?
+In our relentless endeavour to keep improving our services, you are our eyes. Kindly take out sometime to guide us on how to serve your better.
+Share your feedback
+Subscribe to stay informed
+Subscribe to our carefully crafted informative emailers by Medical Experts and be the first to get the latest health news, tips and important updates.
+Submit
+Disclaimer
+Tata 1mg's sole intention is to ensure that its consumers get information that is expert-reviewed, accurate and trustworthy. However, the information contained herein should NOT be used as a substitute for the advice of a qualified physician. The information provided here is for informational purposes only. This may not cover all possible side effects, drug interactions or warnings or alerts. Please consult your doctor and discuss all your queries related to any disease or medicine. We intend to support, not replace, the doctor-patient relationship.

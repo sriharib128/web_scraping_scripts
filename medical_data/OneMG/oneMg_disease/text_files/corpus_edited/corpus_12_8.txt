@@ -1,0 +1,298 @@
+Monkeypox
+Overview
+Monkeypox is a viral zoonotic disease, which means that the infection spreads from animals to humans. The infection is transmitted to humans through scratches or bites from infected rodents such as rats, mice, and squirrels, or by eating bush meat. Monkeypox is commonly found in Central and West Africa, but cases have been identified in other countries due to travel from regions where monkeypox is endemic. 
+
+Monkeypox was discovered in 1958, when two outbreaks of a pox-like disease occurred in groups of monkeys being used for research. As the disease was first discovered in monkeys, hence the name monkeypox. This disease is caused by the monkeypox virus, similar to but with a notably lower death rate. Monkeypox typically presents with fever and rash but the main symptom that distinguishes it from smallpox is swollen lymph nodes. 
+
+Transmission of the virus can happen from an infected animal to human or human to human but is limited to close household contacts or health-care workers not wearing personal protective equipment. Once the patient is diagnosed, he/she should be isolated in a separate room at home or an isolation room in the hospital with separate ventilation. 
+
+Monkeypox is usually a mild and self-limiting disease. Currently, there is no definite treatment approved for this infection. The treatment plan mainly involves supportive care to ease the patient’s symptoms. Most patients who have mild diseases recover without medical intervention.
+Key Facts
+Usually seen in
+All age groups
+Children between 5-9 years of age
+Gender affected
+Both men and women
+Body part(s) involved
+Skin
+Mouth
+Muscles
+Lymph nodes
+Prevalence
+Worldwide: 257 confirmed cases (2022)
+Mimicking Conditions
+Smallpox
+Chickenpox
+Rickettsialpox
+Scabies
+Secondary syphilis
+Yaws
+Measles
+Generalized vaccinia
+Disseminated zoster
+Bacterial skin infections
+Drug-associated eruption
+Eczema herpeticum
+Disseminated herpes simplex
+Chancroid
+Hand foot mouth disease
+Infectious mononucleosis
+Molluscum contagiosum
+Necessary health tests/imaging
+Molecular analysis: Virus isolation & Electron microscopy
+Blood analysis: Real-time polymerase chain reaction (PCR), Enzyme-linked immunosorbent assay (ELISA) & Immunofluorescent antibody assay
+Urine analysis
+Treatment
+Supportive care: Paracetamol, Antiemetics & Antihistamines
+Medical management: Antivirals, Tecovirimat, Brincidofovir & Cidofovir
+See All
+Symptoms Of Monkeypox
+
+Monkeypox symptoms in humans are similar to smallpox but they are milder. The main symptom that differentiates it from smallpox is lymphadenopathy (enlargement or swelling of the lymph nodes). The incubation period (time taken for the symptoms to appear after being infected) for monkeypox is usually 6−13 days but can range from 5−21 days. The most common symptoms include:
+
+Fever
+Headache
+Myalgia (muscle aches)
+Backache
+Lymphadenopathy
+Chills
+Malaise (tiredness)
+Exhaustion
+Sore throat
+Dry cough
+Dyspnea (shortness of breath)
+
+Progression of the disease
+Lesions appear on the tongue and mouth within 1 to 3 days after fever. 
+The patient generally develops a rash, often beginning on the face and then spreading to other parts of the body within 24 hours.
+By the 4th to 5th day, the lesions become raised and filled with pus.
+By the end of the 2nd week, they dry up and crust. The scabs usually remain for a week before they start to fall off.
+This illness typically lasts for about 2-4 weeks and lesions progress through the following stages.
+
+Note: The skin manifestation depends on vaccination status, age, nutritional status associated HIV status. Has all the news about monkeypox got you worried? There is no need to panic. Read on to get all your queries answered about monkeypox.
+Click To Read!
+
+Causes Of Monkeypox
+
+Monkeypox is caused by the monkeypox virus that belongs to the Poxviridae family. It is generally acquired through rodents such as rats, mice, and squirrels (who are the carrier of the virus) in parts of West and Central Africa.
+
+Any person can get monkeypox by the following ways:
+Bite from an infected animal or touching its blood, body fluids, spots, blisters, or scabs. 
+Eating meat of an infected animal from Central or West Africa that has not been cooked thoroughly.
+Touching the skin or fur of the infected animals.
+Transmission
+This infection can spread through direct physical contact with the infected blood, body fluids, skin lesions, blisters, or scabs from an infected animal. The monkeypox virus mainly causes animal-to-human transmission but in rare cases, human-to-human transmission is also possible when there is close contact or large respiratory droplets. 
+Animal-to-human transmission
+This can happen through the following:
+Coming in close contact with an infected animal.
+Eating meat of an infected animal that is not cooked thoroughly.
+A bite or scratch from animals like rats or squirrels infected by the virus.
+Human-to-human transmission
+This occurs through:
+Close physical contact with a person infected by the monkeypox virus.
+Touching clothes, bedding, or towels contaminated with the virus.
+Saliva or respiratory droplets while coughing or sneezing.
+The placenta from mother to fetus.
+Mother to baby during and after childbirth.
+Unprotected sex with an infected person.
+Man to man sex.
+
+Here are some common mistakes that men make while using a condom and how to use it the right way.
+Tap To Read!
+Risk Factors For Monkeypox
+
+Anyone who has close physical contact with an infected animal or someone who has symptoms of monkeypox are at the highest risk of developing the infection. Other people, who are at a greater risk of developing serious symptoms from monkeypox include:
+Newborns
+Children
+Immuno-deficient patients
+Patients with a history of chronic illness 
+Healthcare workers
+Laboratory professionals
+Diagnosis Of Monkeypox 
+
+The investigation should consist of the following:
+Examining the patients clinically using appropriate infection prevention and control (IPC) measures.
+Questioning the patient about possible sources of infection and the presence of similar disease or symptoms in the patient’s community and contacts.
+Collecting and dispatching the specimens safely for laboratory examination of monkeypox.
+
+If monkeypox is suspected, health-care workers should collect an appropriate sample and have it transported safely to a laboratory with appropriate capability. This is because confirmation of monkeypox depends on the type and quality of the specimen and the type of laboratory test. 
+
+Samples are usually collected from a person showing symptoms, especially a traveler from a region where monkeypox is endemic, having an outbreak or there is community (person to person) spread. 
+
+Asymptomatic travelers are kept under observation  for 21 days and samples are collected once signs and symptoms appear.
+
+The various clinical samples that can be collected to make the diagnosis based on the different stages are: 
+
+1. During rash phase
+Nasopharyngeal and oropharyngeal swabs or lesions from the roof, base scraping, fluid, and crust or scab. Collection of sample from lesion should be done from multiple sites
+Blood in specialized tubes like EDTA and SSGT 
+Urine in sterile container
+
+2. During the recovery phase
+Blood in EDTA/SSGT tube
+Urine in a sterile container
+
+For the confirmation of monkeypox on the suspected clinical specimens (blood/lesion/swabs/urine): 
+PCR for orthopoxvirus genus (cowpox, buffalopox, camelpox, and monkeypox) will be done.
+If specimen will show positivity for the Orthopoxvirus, it would be further confirmed by monkeypox specific conventional PCR or real time PCR for monkeypox DNA.
+Additionally, virus isolation and the next generation sequencing of clinical samples (miniseq and nextseq) will be used for characterization of the positive clinical specimens.
+
+Get your lab tests done with us, where patient comfort and safety are the utmost priority.
+Book Now!
+Prevention Of Monkeypox
+
+Monkeypox prevention depends on decreasing human contact with infected animals and limiting person-to-person spread. Monkeypox can be prevented by following these measures:
+
+Avoid contact with infected animals, especially sick or dead ones.
+Cook all foods that contain animal meat or parts thoroughly.
+Avoid any kind of contact with bedding and other materials contaminated with the virus.
+Maintain hygiene by washing your hands with soap and water or alcohol hand rub after coming into contact with an infected animal or person or handling their products.
+Avoid close contact with an infected person.
+Use personal protective equipment (PPE) when caring for an infected person.
+Get vaccinated.
+
+Humans have a close connection with microorganisms. Viruses are tiny microorganisms that range in size from about 20 to 400 nanometers in diameter. Read how viruses are transmitted and ways to prevent them.
+Tap Here!
+
+Vaccination
+There is a vaccine recently approved for monkeypox which is not yet widely available. Vaccines used during the smallpox eradication program can be used for protection against this disease. However, post 1980, when WHO declared that smallpox was eradicated globally, no vaccine has been manufactured in India. 
+
+Smallpox vaccines can provide protection against monkeypox. Certain countries have timely vaccination of close contacts as post-exposure prophylaxis or for certain groups of health care workers for pre-exposure vaccination.
+
+JYNNEOS TM also known as Immune or Imvanex is a live attenuated virus vaccine that has been approved by the U.S. Food and Drug Administration (FDA) for the prevention of monkeypox.
+Specialist To Visit
+
+If any person develops a rash, accompanied by fever, discomfort or illness, along with swollen lymph nodes, they should contact their doctor and get tested for monkeypox. Doctors that can help treat the symptoms and diagnose monkeypox are:
+General physician
+Infectious disease specialist
+Internal medicine specialist
+
+Contact your doctor immediately if you notice the following:
+
+Chest pain
+Seizures
+Pain in the eye or blurring of vision
+Shortness of breath
+Difficulty in breathing
+Altered consciousness
+Decreased urine output
+Loss of appetite
+Extreme tiredness
+
+If you are facing any such issues, seek advice from our professionals. 
+Consult Now!
+Treatment Of Monkeypox
+
+Currently, there are no specific clinically proven treatments for monkeypox infection. As with most viral illnesses, the treatment is supportive management of symptoms. Monkeypox is usually a mild and self-limiting disease. Most patients who have mild diseases recover without medical intervention. The treatment and management mainly involve the following:
+Supportive care
+According to the MOHFW guidelines, the supportive treatment of monkeypox includes the following:
+
+1. Skin rash
+
+Not touching or scratching the lesions as it can worsen the rash and increase the risk of infections.
+Cleaning the area with an antiseptic ointment such as mupirocin acid or fucidin and covering the lesion with light dressing. 
+Taking antibiotics in case of secondary infection.
+
+2. Ulcers
+Sitz bath for genital ulcers.
+Warm salt gargling and use of topical oral anti-inflammatory gel for mouth ulcers.
+
+Most mouth ulcers heal on their own or with over-the-counter (OTC) products within one to two weeks. Ulcers cannot be prevented, but certain lifestyle modifications may help relieve symptoms and reduce their frequency.
+
+Read in detail about the causes, symptoms, treatment, and prevention of mouth ulcers.
+
+3. Dehydration
+Taking adequate fluids like juices and ORS.
+Eating a balanced, nutrient-rich diet.
+In severe cases, intravenous drip may be required.
+
+Here’s more on what to do if you feel dehydrated. Click to know!
+
+4. Other symptoms
+Paracetamol for fever
+Antiemetics for nausea and vomiting
+Antihistamines for itching
+Medical management
+However, there are various antivirals used to treat monkeypox in other countries. Certain cases of monkeypox are treated with the following:
+
+Antivirals: Several antivirals may be useful for the treatment of monkeypox. These drugs were approved for the treatment of smallpox based on animal models but are expected to have the same activity against human monkeypox as well.
+Tecovirimat: It is a potent inhibitor of an orthopoxvirus protein. The recommended dose depends upon the patient's weight.
+Brincidofovir: This drug was approved in June 2021 for use in the United States for the treatment of smallpox and can be used for monkeypox as well.
+Cidofovir: This drug has an in-vitro activity against monkeypox and has been shown to be effective against lethal challenges in animal models.
+Home-care For Monkeypox
+
+The symptoms of monkeypox are mild and may not require hospitalization in most cases. Home-care approach for these patients involve:
+
+Encouraging the infected person to self-isolate and cover any skin lesions.
+Wearing a medical mask, when in close contact with an infected person.
+Making the patient wear a mask especially if they are coughing or have lesions in their mouth.
+Using disposable gloves if you have any direct contact with lesions to avoid skin-to- skin contact.
+Wearing a mask even when handling any clothes or bedding of the person infected with the virus.
+Washing the infected person’s clothes, towels, and bedsheets and eating utensils separately with warm water and detergent.
+Not allowing pets or any other domestic animals near the patient’s room.
+Cleaning and disinfecting contaminated surfaces, if any, daily.
+Disposing of the contaminated waste (e.g., dressings) appropriately.
+Not sharing dishes or any other eating utensils with family members.
+
+Masks have become an integral part of our fight against the novel coronavirus, especially in places where social distancing may not get followed by easing. With cases of monkeypox increasing around the world it is even more important to wear the masks the right way.
+Click To Read!
+
+Complications Of Monkeypox
+
+People with monkeypox are infectious to others from the onset of fever until all lesions scab over. Monkeypox complications include:
+
+Dehydration including:
+Vomiting
+Diarrhea
+Decreased food intake due to painful oral lesion
+Fluid loss from widespread skin disruptions
+Pneumonia
+Sepsis
+Bacterial superinfection of skin
+Permanent skin scarring
+Hyperpigmentation or hypopigmentation
+Permanent scarring of the cornea (vision loss)
+Encephalitis (inflammation of the brain)
+Shortness of breath, chest pain, difficulty in breathing
+Altered consciousness
+Seizures
+Decrease in urine output
+Lethargy
+Death
+Living With Monkeypox
+
+With the increase in cases, the social stigma around monkeypox has also increased. Social stigma is generally a negative association between a person or group of people who share certain characteristics of a specific disease. It may mean that people are labeled, stereotyped, discriminated against, treated separately, and/or experience loss of status because of a perceived link with a disease, especially during an outbreak. This can negatively affect the patients, as well as their caregivers, family, and friends.
+
+The current increase in monkeypox cases and media coverage can also lead to stress and anxiety in patients and their family members. Here are some tips to deal with the psychological effects of the same:
+
+Do not believe the experiences of others all the time.
+Talk about the mental health issues with healthcare professionals. 
+Do not hide away or isolate from the world.
+Reach out to family, friends, coaches or religious leaders for the support.
+Get help from a therapist or psychologist, if needed.
+Join a mental health support group, if required.
+Understand it’s not personal.
+
+Monkeypox is causing similar uncertainty amongst the people as COVID-19 had caused during its inception. Read more about living with COVID-19.
+Click Now!
+
+Frequently Asked Questions
+Which countries are at a higher risk of monkeypox?
+Is monkeypox a common disease?
+What is the duration of illness for monkeypox?
+Does monkeypox affect children?
+Is monkeypox fatal?
+Are there any guidelines for international travelers?
+References
+Moore M, Zahra F. Monkeypox. [Updated 2022 May 22]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan.
+What is Monkeypox? Monkeypox. World Health Organization. May 2022.
+Signs and Symptoms. Monkeypox. Center For Disease Control and Prevention. July 2021.
+How Do You Get Monkeypox? Monkeypox. NHS UK. June 2022.
+Guidelines for the management of monkeypox.Ministry of Health and Family Welfare. GOVERNMENT OF INDIA.
+Khodasevich L, Jezek Z, Messinger D. Monkeypox virus: ecology and public health significance. Bull World Health Organ. 1988.
+Outbreak at a glance. Multi-country monkeypox outbreak in non-endemic countries: Update. World Health Organization.May 2022.
+
+
+===============================================
+
+

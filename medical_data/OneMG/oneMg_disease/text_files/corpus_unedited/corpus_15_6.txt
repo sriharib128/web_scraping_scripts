@@ -1,0 +1,277 @@
+Pneumonia
+Also known as Lung infection, Respiratory infection, Lower respiratory tract infection (LRTI) and Bronchopneumonia
+Overview
+Pneumonia is a disease of the lungs that makes breathing difficult and limits oxygen levels in the body. It is mostly caused due to an infection by microbes such as bacteria, viruses, and fungi. In pneumonia, the air pouches which usually fill with air when breathing, gets filled with infective material, mucus and fluid. This can lead to symptoms such as cough, fever, shortness of breath, and chest pain.
+
+Worldwide, pneumonia is one of the leading causes of morbidity and mortality in children under five years of age despite being easily preventable and treatable. Community-acquired pneumonia (CAP) is the leading cause of morbidity and death in adults across the world. India contributes to 23% of the global pneumonia burden. Due to the high risk, it is advised that people above 65 years of age and those above 18 years of age with risk factors for pneumonia must take pneumococcal vaccines routinely.
+
+Pneumonia is more common during the winter months and can affect people of any age. However, the risk is high in patients with compromised immunity like young children upto 2 years of age, people older than 65, and people with underlying medical problems such as heart disease, diabetes, or chronic lung disease. Mild pneumonia can usually be treated at home with rest and use of antibiotics prescribed by a doctor. More severe cases may need hospital treatment.
+Key Facts
+Usually seen in
+Children below 5 years of age
+Adults above 65 years of age
+Gender affected
+Both men and women
+Body part(s) involved
+Lungs
+Prevalence
+Worldwide: 14 cases per 1000 children (2018)
+India: 403 cases per 1000 children (2015)
+Mimicking Conditions
+Asthma 
+Lung abscess
+Bronchitis
+Atelectasis
+Croup
+Respiratory distress syndrome
+Necessary health tests/imaging
+Sputum test
+Chest X-ray
+Complete blood count (CBC)
+Pulse oximetry
+Arterial blood gas test
+Bronchoscopy
+Urine test (Streptococcus pneumoniae)
+Chest CT scan
+RT-PCR
+Treatment
+Antibiotics: Ciprofloxacin, Cefepime, Azithromycin & Levofloxacin
+Antifungals: Fluconazole, Itraconazole & Amphotericin B
+Antivirals: Oseltamivir
+Mucolytics: Acetylcysteine
+See All
+Symptoms Of Pneumonia
+
+The signs and symptoms of pneumonia can have some common presentation or vary from person to person depending on the type of pneumonia, age, and overall health. 
+
+Some of the common pneumonia symptoms in adults are:
+Cough with sputum
+Fever
+Shaking & chills
+Rapid shallow breathing
+Shortness of breath
+Chest pain
+Low energy
+Loss of appetite
+Nausea & vomiting
+The symptoms of pneumonia in adults above 65 years of age include confusion, changes in mental awareness and  lower than normal body temperature. Pneumonia symptoms in children may include intercostal breathing (where the child uses the chest muscles to breathe), not taking any feed and high-grade fever. Also, children with very severe pneumonia may show symptoms such as unconsciousness, hypothermia (dangerously lower than normal body temperature), and convulsions.
+
+Moreover, the symptoms also vary based on the cause of the infection. For example, bacterial pneumonia can cause symptoms such as a very high-grade fever (around 105 degrees F) along with severe sweating and increased breathing and pulse rate. In some cases, bluish coloration of the lips and nails is also seen due to lack of oxygen in blood. Whereas, in case of viral pneumonia, symptoms usually develop over a period of time and are similar to influenza symptoms which include fever, headache, weakness, muscle pain and, dry cough. These symptoms often worsen in a day or two. 
+Causes Of Pneumonia
+
+Pneumonia is caused by a number of infectious agents and is classified based on the organisms that cause the infections. The common causes and types of pneumonia include:
+Bacterial pneumonia, caused by bacteria such as Streptococcus pneumoniae, Haemophilus influenzae type b (Hib) and Klebsiella pneumoniae.
+Viral pneumonia, caused by viruses such as the respiratory syncytial virus and coronavirus.
+Fungal pneumonia, caused by fungi such as candida, aspergillus, and mucor.
+Atypical pneumonia or mycoplasma pneumonia, caused by mycoplasma (organisms that have traits similar to bacteria and viruses but do not belong to either category).
+Pneumonia can spread via airborne droplets when a person coughs or sneezes. These droplets when inhaled can infect the lungs. It can also be transmitted through saliva and blood.
+Types Of Pneumonia
+
+Pneumonia can be acquired during hospital stay (known as hospital-acquired pneumonia) or outside any medical setting (known as community-acquired pneumonia). Other forms of pneumonia can be aspiration and atypical pneumonia.
+
+1. Hospital-acquired pneumonia (HAP)
+Also known as nosocomial pneumonia, hospital-acquired pneumonia can be serious because the bacteria causing it may be more resistant to antibiotics and because the people who get it are already sick. People who are on breathing machines (ventilators), often used in intensive care units, are at higher risk of this type of pneumonia. It is mostly caused by bacteria such as  staphylococci & pseudomonas aeruginosa.
+
+2. Community-acquired pneumonia (CAP)
+If you get pneumonia not related to your hospital stay, then it is known as community-acquired pneumonia. It is usually caused by organisms present in the environment like pneumococcus bacteria. 
+
+Note: Aspiration pneumonia, although rare, can occur when food, drink, vomit or enters into your lungs. Aspiration is more common in comatose patients, people with brain injury or who have swallowing problems.
+Did you know?
+Atypical pneumonia, also known as walking pneumonia, is a condition in which pneumonia isn't severe enough to require bed rest or hospitalization. People with walking pneumonia may not even know they have pneumonia as their symptoms may feel more like a mild respiratory infection than pneumonia. The symptoms are generally so mild that you don't feel you need to stay home from work or school, so you are out walking around, hence the name “walking pneumonia”.
+Click To Read More!
+Risk Factors For Pneumonia
+
+Pneumonia causes more than a million hospitalizations each year. It is one of the most common infectious killers in children, claiming one child every 39 seconds.
+
+Anyone can get pneumonia, however the risk is higher in people:
+Above 65 years of age
+With chronic lung diseases like COPD, cystic fibrosis, bronchial obstruction, or lung cancer or those with a previous episode of pneumonia
+Suffering from conditions that cause any alteration in level of consciousness (eg stroke, seizure, anesthesia, drug or alcohol intoxication) or dysphagia
+With immunocompromised conditions like HIV infection, organ/stem cell transplantation, diabetes or those on immunosuppressive medicines
+Suffering from metabolic disorders like malnutrition, uremia, and acidosis
+With lifestyle risk factors such as smoking, alcohol & toxic inhalants
+With intubation or bronchoscopy
+With viral respiratory tract infection like influenza
+Can pneumococcal vaccines keep you safe during winters?
+Click To Read!
+
+
+Breastfeeding can lower the chances of pneumonia in kids
+Studies suggested that exclusive breastfeeding during the first six months of life as well as breastfeeding upto 24 months of age can lower the chances of pneumonia in infants and young children. This is attributed to the presence of numerous immunoprotective and immune boosting compounds in the breast milk. Here are more reasons why it is important to breastfeed.
+Click To Read!
+Diagnosis Of Pneumonia 
+  Based on your symptoms and clinical history, your doctor will perform a physical examination and may even order several investigations. Typically, pneumonia can be diagnosed with a physical exam (to hear the sound of your breathing) and X-ray. However, depending upon the severity of the symptoms, your doctor may even order other tests such as:
+
+1. Sputum test: It is recommended  to detect various respiratory tract diseases caused by fungi or bacteria including pneumonia.
+
+2. Chest X-ray: It is used to diagnose any problems like infections, inflammations or abnormal growth in the lungs.
+
+3. Complete blood count (CBC): This test may be required to evaluate if the patient is suspected of having a severe infection or inflammation.
+
+4. Pulse oximetry: It helps to check the oxygen levels of the blood in a non-invasive way that too within seconds.
+
+5. Arterial blood gas: This test measures the acidity (pH) and the levels of oxygen and carbon dioxide in the blood from arteries.
+
+6. Bronchoscopy: It provides direct visualization of the lungs including the bronchioles and airway passages to detect for any infection or tumors.
+
+7. Urine test: This test is used to check for the presence of the bacteria streptococcus pneumoniae in the urine.
+
+8. Imaging tests: It includes tests such as chest CT scan and lung ultrasound might be recommended to check for any damage in the lungs.
+
+9. RT-PCR: It is the most reliable and accurate test to diagnose COVID-19 infection complicated with pneumonia. It helps to detect the genetic material of the virus present in the sample (usually a throat or nasal swab).
+
+10. Viral serology: It helps to detect viral pneumonia and confirm the presence of antibodies targeted against the virus. It also helps to measure the quantity of the viral antigens in the blood sample confirming the presence of viral infection.
+Celebs affected
+Naseeruddin Shah
+The veteran Bollywood actor Naseeruddin Shah was hospitalized in June 2021 after being diagnosed with pneumonia.
+Dilip Kumar
+The late Bollywood actor was known to suffer from bronchial pneumonia. He was admitted due to a chest infection and was known to be experiencing recurrent pneumonia.
+Oprah Winfrey
+The popular producer and host of a talk show, Oprah Winfrey, said in an interview that she was diagnosed with pneumonia. She visited a lung specialist on experiencing a little rattling in her chest, who confirmed she has pneumonia after checking up with a stethoscope.
+Prevention Of  Pneumonia
+
+Pneumonia can be prevented in many cases. There are few ways to prevent pneumonia such as:
+Washing your hands frequently, especially before touching your face and handling food
+Using a hand sanitizer, if soap and water aren’t available, to clean your hands
+Quitting smoking and avoiding secondhand smoke
+Covering your mouth when coughing or sneezing
+Getting adequate sleep, exercising regularly & eating a well-balanced diet
+Avoiding close contact with people who have pneumonia or other contagious illnesses
+Getting vaccinated if you belong to the high risk group such as above 65 years or age or are above 18 years of age but have several risk factors for pneumonia
+Pneumococcal vaccine
+Pneumococcal vaccine protects from pneumococcal diseases caused due to Streptococcus pneumoniae bacteria. This vaccination can help prevent the respiratory infection caused by bacteria. 
+
+The pneumococcal vaccine is indicated in special high-risk groups only such as: 
+People who underwent splenectomy
+People with low immunity
+People suffering from diabetes 
+People with chronic organ failure
+Note: Pneumonia vaccination won’t prevent all cases of pneumonia, however, it can lead to a milder and shorter course of the disease and lower risk of complications. 
+
+Pneumococcal vaccine can be given to children below 5 years of age. It is given in three doses, starting at 1.5 years. The second and the third dose, also known as booster doses, are recommended after a month and two month post first dose, respectively.
+
+Make sure you consult your child’s doctor to make sure which vaccines are best for your child. Remember, vaccinations given at the right time can help you give the best quality healthcare to your child.
+Specialist To Visit
+  Call your doctor immediately if you have:
+Difficulty breathing
+Develop a bluish color in your lips and fingertips
+Chest pain
+High fever
+Cough with mucus
+While your family doctor or a general physician can help in the diagnosis of the condition, if you want to go to a specialist then you can consult:
+Pulmonologist or lung specialist 
+Pediatrician
+Worried about your child’s health? Consult India’s best doctors here. 
+Consult Now!
+
+
+Treatment Of Pneumonia
+
+The treatment for pneumonia depends on the type, severity, and overall health. In most cases, antibiotics, antiviral, or antifungal medications are prescribed to treat pneumonia based on its type along with other medications to treat symptoms like fever & cough. 
+
+1. Antibiotics
+Your doctor might recommend antibiotics if he/she suspects bacterial infection. Some of the commonly prescribed antibiotics include: 
+Amoxycillin + clavulanic acid
+Ciprofloxacin
+Cefepime
+Cefuroxime
+Azithromycin
+Levofloxacin
+2. Antifungals
+These medicines are recommended if you have fungal infection along with pneumonia, which is mostly seen in patients with comorbidities such as diabetes.
+Fluconazole
+Itraconazole
+Amphotericin B
+3. Antivirals
+These medicines help to fight the viruses that are responsible for worsening the condition thereby improving the effectiveness of the treatment.
+Oseltamivir (influenza virus)
+Remdesivir (COVID-19)
+4. Mucolytics
+Acetylcysteine is one of the commonly used mucolytics that helps to treat respiratory diseases with excessive mucus such as pneumonia, COPD, and bronchitis. It loosens and thins mucus in the respiratory tract or airways thereby making it easier to cough out. 
+
+In severe cases, most people respond to treatment and recover from the condition. However, in some cases, such as diabetes, a weak immune system, or heart failure, complications can arise. This is why it is important to consult your doctor the moment you spot the symptoms of pneumonia.
+
+Consult India’s best doctors from the comfort of your home. 
+Book Now!
+
+
+Home-care For Pneumonia 
+
+Most cases can be treated at home by taking the prescribed drugs, taking enough rest, and drinking lots of water. However, if it’s not being managed at home, your doctor may advise hospitalization for appropriate treatment. 
+
+Some of the common measures to follow at home to treat and manage pneumonia include:
+You can take antipyretics and painkillers to control fever and pain. Do not take any medications without consulting your doctor first. 
+Drink lots of fluids as this not only helps you to keep your body temperature in control but also aids to loosen up the secretions and help to manage cough.
+If you suffer from a severe cough or if your cough is preventing you from getting sleep, then talk to your doctor about what medications can help.
+Use a humidifier, take warm baths and drink warm beverages as this helps to open up your airways and also ease your breathing.
+If you smoke, then make sure to stay away from smoking (this includes secondhand smoke or vehicular smoke). This is because smoke can further impair your lungs and hasten your healing process.
+Take sufficient rest and eat a healthy diet. Make sure to limit your daily chores and not overdo any activity until you feel fully recovered.
+You can try some chest exercises that help to clear up mucus from the respiratory tract and also improve your breathing.
+Here are a few simple breathing exercises to increase your oxygen level. Watch the video to know.
+
+
+Complications Of Pneumonia
+
+The common complications due to pneumonia include:
+Impaired breathing
+Acute respiratory distress (a severe form of respiratory failure)
+Lung abscesses (pus in the lungs)
+Bacteremia (bacteria in the blood)
+Pleural effusion (fluid in the lungs)
+Septic shock
+Empyema
+Renal failure
+Respiratory failure
+Pneumothorax 
+COVID-19 and pneumonia
+The second wave of COVID-19 in India has been known to cause detrimental consequences across the nation. Not only the number of positive cases increased spirally but it also led to drastic reduction in the essential treatment supplies and a significant increase in the hospitalization due to lung complications. One of the severe complications seen during this phase was COVID-19 related pneumonia, especially in people with chronic diseases and lung problems.
+
+This also led to an increase in the demand of various medicines and use of novel treatment options to improve the overall lung function and reduce the viral load. Some of the commonly used medicines include fabivirapir, ivermectin, tocilizumab, steroids, montelukast and levocetirizine. Also, treatment options such as remdesivir, plasma therapy, antibody cocktail, and 2-deoxy-D-glucose (2-DG) were also used to treat COVID-19. 
+
+To know more about COVID-19, its treatment & latest updates/news, check out our coronavirus section.
+Click Here!
+Alternative Therapies Of Pneumonia
+
+As cough is one of the most common symptoms of pneumonia, here are a few remedies for cough, other than your conventional medicines.
+Lavanga (clove) can be fried in ghee and should be kept in mouth for sucking. This preparation is quite useful for relieving cough.
+For relieving cough you can also take 60 mg powdered fruit of pippali (long pepper) and 120 mg of saindhava namak (rock-salt), mix it with hot water & take it two times in a day.
+Take 3-6 g of fruit and root of pippali (long pepper) and shunthi (dried ginger) in equal proportion. Mix this with honey and take this mixture two times in a day.
+Prepare ghrta also called ‘ghee’ from equal part of fruit of maricha (black pepper), ardraka (ginger) and sharkara (raw sugar). It is to be taken twice a day in a dose of around 12-24 gm.
+Taking 1-3gm of sitopaladi churna with 4 to 6 gm of honey twice a day may also help.
+You can also take 300mg of karpooradi churna along with equal parts of sugar candy, twice a day.
+You may take a juice of ardraka (ginger) 14 ml with equal quantity of honey, twice a day.
+The decoction of tamarind leaves (14 to 28 ml) is to be taken with 2 gm of saindhava namak (rock salt) and 500 mg of hing (asafoetida) fried in ghee. This preparation can be taken twice a day.
+Did you know?
+Approximately 30% of patients who receive mechanical ventilation can develop Ventilator-associated pneumonia (VAP). As the name suggests, it is a type of pneumonia that occurs in patients who have been intubated or mechanically ventilated by means of a tracheostomy for at least 48 hours. Mechanical ventilation allows oral and gastric secretions to enter the lower airways, which can trigger the bacteria in the lower respiratory tract to cause pneumonia. Consult our professional and seek help.
+Consult Now!
+Frequently Asked Questions
+What happens in pneumonia?
+Is pneumonia contagious?
+Is pneumonia in kids serious?
+What increases the risk of pneumonia in kids?
+How to improve breathing with exercises?
+What exercises remove mucus from lungs?
+References
+Pneumonia. Key Facts. World Health Organization
+Eshwara VK, Mukhopadhyay C, Rello J. Community-acquired bacterial pneumonia in adults: An update. Indian J Med Res. 2020;151(4):287-302.
+Gothankar J, Doke P, Dhumale G, et al. Reported incidence and risk factors of childhood pneumonia in India: a community-based cross-sectional study. BMC Public Health. 2018 Sep 11;18(1):1111.
+Sharma BB, Singh V. Indian pneumonia guidelines. Lung India. 2012 Oct;29(4):307-8.
+Gupta D, Agarwal R, Aggarwal AN, et al; Pneumonia Guidelines Working Group. Guidelines for diagnosis  and management of community- and hospital-acquired pneumonia in adults: Joint
+ICS/NCCP(I) recommendations. Lung India. 2012 Jul;29(Suppl 2):S27-62.
+Kumar K J, Ashok Chowdary K V, Usha H C, Kulkarni M, Manjunath V G. Etiology of community acquired pneumonia among children in India with special reference to atypical pathogens. Lung India 2018;35:116-20.
+Five Facts You Should Know About Pneumonia. Lung Health & Diseases. American Lung Association.
+Stop Pneumonia. Every Breathe Counts.
+Grief SN, Loza JK. Guidelines for the Evaluation and Treatment of Pneumonia. Prim Care. 2018;45(3):485-503.
+Pneumonia Treatment and Recovery. American Lung Association. Last updated in August 2021.
+Wahl B, Knoll MD, Shet A, et al. National, regional, and state-level pneumonia and severe pneumonia morbidity in children in India: modelled estimates for 2000 and 2015. Lancet Child Adolesc Health. 2020 Sep;4(9):678-687.
+Pneumonia. Data. UNICEF. Last updated April 2021.
+Overview of Pneumonia. BMJ Best Practice.
+Lamberti LM, Zakarija-Grković I, Fischer Walker CL, et al. Breastfeeding for reducing the risk of pneumonia morbidity and mortality in children under two: a systematic literature review and meta-analysis. BMC Public Health. 2013;13 Suppl 3(Suppl 3):S18.
+Did our information help you?
+In our relentless endeavour to keep improving our services, you are our eyes. Kindly take out sometime to guide us on how to serve your better.
+Share your feedback
+Subscribe to stay informed
+Subscribe to our carefully crafted informative emailers by Medical Experts and be the first to get the latest health news, tips and important updates.
+Submit
+Disclaimer
+Tata 1mg's sole intention is to ensure that its consumers get information that is expert-reviewed, accurate and trustworthy. However, the information contained herein should NOT be used as a substitute for the advice of a qualified physician. The information provided here is for informational purposes only. This may not cover all possible side effects, drug interactions or warnings or alerts. Please consult your doctor and discuss all your queries related to any disease or medicine. We intend to support, not replace, the doctor-patient relationship.

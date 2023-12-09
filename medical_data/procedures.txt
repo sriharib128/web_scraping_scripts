@@ -1,0 +1,119 @@
+valvular heart surgery
+knee replacement surgery
+the da vinci xi robotic surgery
+bone marrow transplant bmt
+lung transplant
+lvad implantation
+bariatric surgery
+hipec treatment
+kidney transplant
+prostate laser surgery
+acl injury
+acne treatment
+acoustic neuroma
+ankle replacement surgery
+breast reduction surgery
+chemotherapy
+cardiac valve replacement surgery
+cochlear implant
+coronary angioplasty
+coronary artery bypass grafting cabg
+coronary heart disease treatment
+ct coronary angiogram
+ecmo
+hand plastic surgery
+heart blockage treatment
+hip resurfacing surgery
+interventional cardiology angioplasty
+meniscus repair surgery
+pacemaker implantation
+percutaneous needle biopsies fnac and catheter drainages
+robotic heart surgery
+transcatheter aortic valve implantation tavi
+breast augmentation
+septoplasty
+intrauterine insemination
+tympanoplasty
+hip replacement
+keyhole surgery
+liposuction
+colorectal surgery
+abdominal surgery
+spine surgery
+tonsillectomy
+hepatectomy
+artificial cervical disc replacement
+physiotherapy for back pain
+shoulder hemiarthroplasty
+transurethral resection of the prostate
+radical prostatectomy
+hysterectomy
+vaginal surgery
+robotic hysterectomy
+salpingo oophorectomy
+total penectomy
+hormone therapy
+targeted therapy
+sclerotherapy
+facelift surgery
+facial implant surgery
+breast liposuction
+facial plastic surgery
+flap surgery
+abo incompatible kidney transplant
+vertebroplasty
+sinus surgery
+bladder neck incision
+cystoscopy
+orchiectomy
+stereotactic radiation therapy
+hemicolectomy
+thyroidectomy
+cardiac catheterisation
+orthotopic liver transplant
+lobectomy
+laparoscopic appendectomy
+jaw implants
+arthrodesis
+balloon kyphoplasty
+robotic cystectomy
+valvuloplasty
+mitral valve replacement
+radial head replacement surgery
+maxillectomy
+tomotherapy
+orthognathic surgery
+robotic prostatectomy
+dental surgery
+craniotomy surgery
+immunotherapy
+peritoneal dialysis
+whipple procedure
+total laparoscopic hysterectomy
+kidney dialysis
+plasmapheresis
+vasectomy
+varicocelectomy
+ovarian cancer surgery
+imrt
+meniscectomy
+yellow peel treatment
+hair transplant surgery
+debridement
+reverse shoulder arthroplasty
+cosmetic dentistry
+pars plana vitrectomy ppv
+lumbar disc replacement
+ventriculoperitoneal shunting
+adenoidectomy
+hand surgery
+automatic implantable cardioverter defibrillator
+total elbow replacement
+splenectomy
+laser surgery stone removal
+pericardiocentesis
+robotic hernia surgery
+appendix surgery
+endoscopic sinus surgery
+cholecystectomy
+joint replacement surgery

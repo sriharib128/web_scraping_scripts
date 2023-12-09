@@ -1,0 +1,277 @@
+Japanese encephalitis
+Also known as Japanese B encephalitis, JE, Russian autumnal encephalitis and Summer encephalitis
+Overview
+Japanese encephalitis (JE) is a vector borne disease caused by the Japanese encephalitis virus (JEV). JEV is transmitted by mosquitoes to humans and animals. Domestic animals, especially pigs, generally act as reservoirs of the virus. This virus is not transmitted from one person to another. 
+
+Japanese encephalitis (JE) is most commonly seen in Asia and the western Pacific countries. It primarily affects children between the ages of 0 to 15 years and occasionally adults.
+
+Most people infected with JE do not have symptoms or have only mild symptoms and treatment involves supporting the functions of the body as it tries to fight off the infection.
+
+However, a small percentage of infected people can develop inflammation of the brain (encephalitis), with symptoms like sudden onset of headache, high fever, disorientation, coma, tremors and convulsions.
+
+The prevention generally consists of avoiding mosquito bites by using mosquito repellents, wearing long-sleeved shirts and long pants, getting vaccinated for JE is also important especially while living in or traveling to JE endemic areas.
+Key Facts
+Usually seen in
+Children between 0-15 years of age
+Adults above 40 years of age
+Gender affected
+Both men and women
+Body part(s) involved
+Brain
+Prevalence
+India: 25% (2015)
+Mimicking Conditions
+Influenza
+Meningitis
+Acute ischemic stroke
+Necessary health tests/imaging
+Cerebrospinal fluid (CSF) 
+Peripheral smear examination 
+Serological tests: Plaque reduction neutralization test (PRNT), Hemagglutination inhibition (HI) test & Indirect immunofluorescence assay (IFA)
+Treatment
+Interferons
+Antiviral drugs: Minocycline
+Glucosidase inhibitors
+See All
+Symptoms Of Japanese Encephalitis
+
+Generally, patients suffering from JE do not present with any symptoms, but if there are symptoms, they will appear 5 to 15 days after being infected. In mild cases of Japanese encephalitis, individuals might only develop fever and a headache, but in more severe cases, serious symptoms can develop quickly.
+
+Some of the possible symptoms include:
+Headache
+High fever
+Nausea
+Vomiting
+Stiff neck
+Tremors (shaking)
+Hyperactivity of the muscles
+Abnormal posturing
+Abdominal pain
+
+The symptoms of Japanese encephalitis that indicate brain inflammation include deafness, uncontrollable emotions, and weakness on one side of the body, which can cause lifelong complications. In some cases, individuals might also undergo changes to brain function such as: 
+Disorientation
+Coma
+Stupor (state of near-unconsciousness)
+Convulsions or seizures in children
+Swelling of the testicles (in rare cases)
+Causes Of Japanese Encephalitis
+
+Japanese encephalitis is caused by a flavivirus, which can affect both humans and animals. The virus is passed from animals to humans through the bite of an infected mosquito. Understanding the transmission cycle is very important in knowing the cause.
+Transmission
+This virus exists in the zoonotic transmission cycle, which means the infections spread from animals, through insects to humans. The general carrier and host of this virus are:
+Mosquitoes: The major mosquito vectors of JEV vary in different geographic regions, but the most common are Culex species (mainly Culex tritaeniorhynchus).
+Pigs: They are the main contributors in the transmission cycle with respect to human infection, because these animals often stay close to human dwellings.
+Bats: Recently, JEV antibodies were detected in bats, revealing that bats can be a part of the JEV transmission cycle.
+Water birds: The birds belonging to the family Ardeidae (cattle egrets and pond herons) are important maintenance hosts.
+
+In most temperate areas of Asia, JEV is transmitted mainly during the warm season whereas in the tropics and subtropical regions, transmission can occur year-round but often intensifies during the rainy season and pre-harvest period in rice-cultivating regions.
+
+First, the endemic region is composed of Southern India, Southern Vietnam, Southern Thailand, the Philippines, Malaysia, and Indonesia. Secondly, the intermediary subtropical region, which includes Northern India, Nepal, North and Central Burma, Northern Thailand, Northern Vietnam, Southern China, and Bangladesh. Thirdly, the temperate epidemic region, spanning Northern China, Korea, Japan, Taiwan, and the southern extremities of Russia.
+
+Japanese encephalitis virus (JEV) is a flavivirus related to dengue, yellow fever and West Nile viruses. Read more about symptoms, causes, treatment and prevention of dengue. 
+Click Now!
+Risk Factors For Japanese Encephalitis
+
+The risk of becoming infected with Japanese encephalitis is highest during and right after rainy seasons as mosquitos breed during this time and populations tend to increase suddenly around rainy seasons. The factors determining who of all the infected develop the disease are unknown, but factors such as age, genetic make-up, general health, and pre-existing immunity play an important role in the spread of the disease.
+
+People in countries with year-round tropical climates are also at risk of getting Japanese encephalitis. High-risk countries include:
+
+China
+Myanmar (Burma)
+Thailand
+Philippines
+Sri Lanka
+Malaysia
+Indonesia
+Vietnam
+Cambodia
+Laos
+Nepal
+India
+
+Overall, for every million travelers it is estimated that there's less than 1 case of Japanese encephalitis. But there are certain activities that can increase the risk of getting the infection. These include:
+Visiting rural areas during the rainy season
+Camping, or traveling in high-risk areas for a long time
+Living or working outdoors in rural areas
+Did you know?
+Despite its name, Japanese encephalitis is now relatively rare in Japan as a result of mass immunization programmes. Understand why vaccination is needed in adults?
+Click To Read!
+Diagnosis Of Japanese Encephalitis
+
+Individuals who live in or have traveled to a JE-endemic area and experience encephalitis are considered a suspected JE case. Confirming the diagnosis consist of the following:
+Detailed medical and travel history
+Japanese encephalitis (JE) should be considered in a patient with evidence of a neurologic infection like meningitis, encephalitis, or acute flaccid paralysis (onset of weakness or paralysis with reduced muscle). Individuals who have recently traveled to or resided in an endemic country in Asia or the western Pacific are also suspected of infection with JEV. 
+Laboratory tests
+Clinically, it is difficult to distinguish JE from other cases of encephalitis, therefore laboratory confirmation is necessary in such circumstances. This is generally accomplished by testing of the following:
+
+1. Cerebrospinal fluid (CSF): The ideal method for laboratory confirmation is testing cerebrospinal fluid (CSF) or serum for JEV-specific IgM antibodies to detect virus-specific IgM antibodies. JE virus IgM antibodies are usually detectable 3 to 8 days after onset of illness and persist for 30 to 90 days, but longer persistence has also been documented.
+
+2. Peripheral blood picture: A peripheral smear examination shows moderate leukocytosis with relative lymphopenia (decreased white blood cells called lymphocytes). The case fatality rate is high, around 25–50%, and most of the deaths occur around 5–9 days after onset.
+
+3. Serological tests: In JE cases, generally the infection is asymptomatic. Several assays have been developed for detection of antibodies induced by natural infection or vaccination. A multitude of tests based on nucleic acid detection have been explored for JEV detection in humans as well as the swine population. These tests include:
+Plaque reduction neutralization test (PRNT): PRNT is considered as a gold standard in flavivirus diagnosis. To discriminate between potentially cross-reactive antibodies with other flaviviruses, PRNT is the test of choice. A fourfold increase in IgG titre in acute and convalescent sera is considered as a confirmatory test. 
+Hemagglutination inhibition (HI) test: The hemagglutination inhibition (HI) assay is used to titrate the antibody response to a viral infection. The principle behind the hemagglutination test is that the nucleic acids of viruses encode proteins such as hemagglutinin, that are expressed on the surface of the virus.
+Indirect immunofluorescence assay (IFA): It is a standard virologic technique to identify the presence of antibodies by their specific ability to react with viral antigens expressed in infected cells; bound antibodies are visualized by incubation with fluorescently labeled anti-human antibody.
+Enzyme-linked immunosorbent assay (ELISA): The JEV-specific IgM antibody capture ELISA (MAC-ELISA) has now become the first-line diagnostic assay recommended by the WHO for detection of acute infections.
+Virus isolation: Isolation can be done in mice using intra cerebral route. However, transient and low-level presence of virus in blood is observed in JE infection, therefore, the isolation of virus is not a method of choice for diagnosis in clinical specimens.
+Nucleic acid amplification: The RT-PCR tests, quantitative PCR (TaqMan), restriction fragment length polymorphism (RFLP) analysis are useful molecular assay tests as they are very specific, sensitive and can detect low viral copies in acute or early phase of infection.
+Staphylococcal coagglutination tests: This test is done using polyclonal or monoclonal antibodies in rapid diagnosis of JE. 
+Did you know?
+Anti-N-methyl-D-aspartate receptor (NMDA) encephalitis is a neuro-autoimmune disease. It can be confirmed by a test NMDA IGg, read more about it.
+Click Here!
+Prevention Of Japanese Encephalitis
+
+Japanese encephalitis virus is spread to people through the bite of an infected mosquito. The best way to prevent Japanese encephalitis virus infection is to protect from mosquito bites. The tips that can help prevent it are:
+
+Use Environmental Protection Agency (EPA) registered insect repellents
+Spray insect repellent onto hands and then apply to a child’s face
+Cover strollers and baby carriers with mosquito netting
+Do not use products containing oil of lemon eucalyptus (OLE) or para-menthane-diol (PMD) for children under 3 years old
+Do not apply insect repellent to a child’s hands, eyes, mouth, cuts, or irritated skin
+Always follow the product label instructions
+Reapply insect repellent as directed
+Do not spray repellent on the skin under clothing
+Apply sunscreen first and then insect repellent, if using a sunscreen
+Wear long-sleeved shirts and long pants
+Use 0.5% permethrin (insecticide that kills or repels mosquitoes) to treat clothing and gear (such as boots, pants, socks, and tents) 
+Use screens on windows and doors and repair holes in screens to keep mosquitoes outdoors
+Prevent water stagnation to stop mosquitoes from laying eggs in or near water
+Use air conditioning, if available 
+Empty or throw out items that hold water such as tires, buckets, planters, toys, pools, birdbaths, flowerpots, or trash containers, once a week
+While traveling, choose a hotel or lodging with air conditioning or window and door screens
+Minimize outdoor activities during dawn and dusk in JE endemic areas
+Improved and safe methods of animal rearing
+Use mosquito nets correctly in the following way:
+Tuck the net under the mattress to keep the mosquitoes out
+Tuck netting under the crib mattress or select a mosquito net long enough to touch the floor
+Pull the net tightly to avoid choking hazards for young children. Check label instructions for additional information
+Hook or tie the sides of the net to other objects if they are sagging in towards the sleeping area
+Check for holes or tears in the net where mosquitoes can enter
+Do not sleep directly against the net, as mosquitoes can still bite through holes in the net
+Travelers to rural areas can be vaccinated after consulting the doctor. Types of vaccinations available are:
+Purified, formalin-inactivated mouse-brain-derived JE vaccine
+Inactivated hamster kidney cell-culture-derived JE vaccine
+Vaccine based on the SA14-14-2 strain 
+Cell-culture derived live attenuated JE vaccine
+Vaccination in India
+The JE vaccination campaign was launched during 2006 wherein 11 of the most sensitive districts in Assam, Karnataka and Uttar Pradesh were covered. Altogether, 86 JE endemic districts in the states of Assam, Andhra Pradesh, Bihar, Haryana, Goa, Karnataka, Kerala, Maharashtra, Tamil Nadu, Uttar Pradesh, and West Bengal have been covered. 
+
+Inactivated Japanese Encephalitis virus protein is used for prevention of Japanese Encephalitis. Learn more about Inactivated Japanese Encephalitis virus protein.
+Click Now!
+ Specialist To Visit
+
+Most people infected by the Japanese encephalitis virus have either no symptoms or mild short-lived symptoms, which are often mistaken for influenza (flu). In rare cases, it can cause neurological problems as well. The doctors to visit in this case are:
+General physician
+Neurologist
+
+A neurologist is a doctor specialized in organic disorders of nerves and the nervous system.
+
+If you are facing such an issue, seek advice from our trusted professionals. 
+Consult Now!
+Treatment Of Japanese Encephalitis
+
+There is no specific treatment for JE except for supportive care for hospitalized patients, controlling convulsions and treating raised intracranial pressure when they occur.
+
+Treatment is mostly symptomatic and consist of the following:
+Adequate amount of fluids
+Use of pain relievers
+Medication to reduce fever may relieve some symptoms
+
+Apart from this there are few other promising modalities like:
+Interferons
+Interferon-á is currently the most promising potential treatment. It is produced naturally in cerebrospinal fluid (CSF) in response to infection with Japanese encephalitis virus.
+
+Naturally occurring compounds such as arctigenin, a phenylpropanoid dibenzyl butyrolactone lignan, and rosmarinic acid, a phenolic compound found in various herbs like basil, mint, rosemary, sage, savory, marjoram, and oregano has been found to provide protection to mice against JEV.
+
+Antiviral drugs
+A number of antiviral agents have been investigated, including INF alfa-2a68 and diethyldithiocarbamate (a low molecular weight dithiol). However, none of these have convincingly been shown to improve the outcome of JE. Mannitol might be used to reduce intracranial pressure.
+
+Minocycline, a member of the broad-spectrum antibiotic tetracycline group, has been a notable breakthrough in anti-flavivirus drug research. Another compound that has shown inhibition of JEV replication completely in vitro is an N-methylisatin-β-thiosemicarbazone derivative.
+
+Glucosidase inhibitors
+This works on the mechanism that eliminates the production of several endoplasmic reticulum–budding viruses, including dengue type II (DEN-2) and JEV.
+
+Jenvac Vaccine is a medicine used for prevention of Japanese encephalitis (JE). It protects against JE and is given as part of a universal immunization program for selected places endemic to JE. Read more about it.
+Click Now!
+Home-care For Japanese Encephalitis
+
+There is no effective and exact treatment for Japanese Encephalitis, but like any other viral infections, mild symptoms can be managed by:
+Drinking adequate fluids
+Taking enough rest
+Eating a nutritious, wholesome and well balanced diet
+Managing pain with painkillers
+Taking multivitamin supplements
+Adding honey and lemon to the diet
+Keeping oneself warm and comfortable
+Adding bananas and rice to soothe an upset stomach and curb diarrhea
+Relieving the symptoms of fever with tulsi leaves
+Are you down with fever?
+If you are down with fever and are wondering what to do to lower your body temperature, here is a list of a few do’s and don’ts to follow.
+Read To Know!
+Complications Of Japanese Encephalitis
+
+Complications of JE that increase risk of death are treatable in most of the cases. Some of the common complications include:
+
+Seizures: JE is associated with seizures in 46% of the patients in the acute stage of encephalitis which is easily controlled by monotherapy. 
+Increased intracranial pressure: Growing pressure inside of the skull due to seizures in case of JE.
+Status epilepticus: A seizure that lasts longer than 5 minutes, or having more than 1 seizure within a 5 minutes period, without returning to a normal level of consciousness between episodes.
+Parkinson's-like symptoms: These include symptoms such as mask‐like face, rigidity, and tremor. However, acute flaccid paralysis can be a presenting symptom.
+Acute encephalitis: Rapid implantation of the brain, most commonly caused by virus.
+Aspiration pneumonia: It occurs when food, saliva, liquids, or vomit is breathed into the lungs or airways leading to the lungs, instead of being swallowed into the esophagus and stomach. This is due to reduced gag reflex in patients with JE.
+
+The case-fatality rate among those with encephalitis can be as high as 30% and permanent neurologic or psychiatric sequelae can occur in 30%–50% of those with encephalitis. Read about ways to prevent it.
+Click Now!
+
+Alternative Therapies For Japanese Encephalitis
+
+Japanese encephalitis is a virus spread by the bite of infected mosquitoes that can cause brain swelling. Many clinical trials and research are in progress to battle this infection. Some of the latest advances include:
+RNA interference
+This is an innovative study on mice that uses RNA interface to administer intracranial dose of lentivirus-delivered short hairpin RNA has been sufficient to provide protection against lethal encephalitis. 
+TNF activity
+Tumor necrosis factor (TNF) can be a product of T cells and can act on T cells. Pentoxifylline has been studied as an adjunctive treatment for both malaria and dengue fever because of its anti-TNF activity, can also inhibit JEV replication in vitro and has protective effects in mouse models of Japanese encephalitis.
+TLRs
+Toll-like receptors (TLRs) are a class of proteins that play a key role in the innate immune system. Tlr4 protects mice against the lethal effects of Japanese encephalitis; therefore, this receptor represents a potential therapeutic target. The effect of TLR4 is nullified by eritoran (an investigational drug for the treatment of severe sepsis), which has been used in phase III trials for sepsis and has also been shown to protect mice in a model of influenza.
+Living With Japanese Encephalitis
+
+Japanese encephalitis is a very low risk disease with mild symptoms for most travelers, traveling to JE affected countries. However, some travelers will be at increased risk of infection based on factors like periods of travel, travel during the JE virus transmission season, and spending time in rural areas. To prevent this individual at higher risk can follow these tips:
+
+Wear long sleeved shirts and pants
+Use EPA approved mosquito repellent
+Stay indoors as much as possible
+Use air conditioning
+Do not allow mosquitoes to breed in stagnant water
+Use mosquito nets
+Get vaccinated while planning to live in a JE-endemic country for a month or longer
+
+In case of the infection with mild symptoms, following things can be done:
+
+Staying hydrated
+Taking medication for pain and fever
+Resting as much as possible
+Eating a nutritious diet
+
+Viral infections are extremely common. Every other person seems to be having one infection or the other. Read about 4 simple habits to follow to prevent these infections.
+Click Here!
+
+Frequently Asked Questions
+How is Japanese encephalitis transmitted?
+Is Japanese encephalitis contagious?
+Is Japanese encephalitis deadly?
+Is Japanese encephalitis curable?
+How to prevent JE?
+References
+Basu A, Dutta K. Recent advances in Japanese encephalitis. F1000Res. 2017;6:259. Published 2017 Mar 13.
+Amicizia D, Zangrillo F, Lai PL, Iovine M, Panatto D. Overview of Japanese encephalitis disease and its prevention. Focus on IC51 vaccine (IXIARO®). J Prev Med Hyg. 2018;59(1):E99-E107. Published 2018 Mar 30.
+Prevention. Japanese Encephalitis. Center For Disease Control And Prevention. Feb 2019.
+Ghosh D, Basu A. Japanese encephalitis-a pathological and clinical perspective. PLoS Negl Trop Dis. 2009;3(9):e437. Published 2009 Sep 29.
+Key Facts. Japanese Encephalitis. Feb 2019.
+Japanese Encephalitis. Causes. NHS Uk. Feb 2019.
+AkiraIgarashi. JAPANESE ENCEPHALITIS VIRUS(FLAVIVIRIDAE). Encyclopedia of Virology (Second Edition). Jun 2004.
+Misra UK, Kalita J. Seizures in Japanese encephalitis. J Neurol Sci. 2001.
+Zhao J, Chen F, Lu L, Li C, Du Y. Japanese encephalitis (JE) mimicking acute ischemic stroke: A case report. Medicine (Baltimore). 2020.
+Sarika Tiwari, Rishi Kumar Singh et al. Japanese encephalitis: a review of the Indian perspective. The Brazilian Journal of Infectious disease ;16(6). 2012.
+
+
+===============================================
+
+

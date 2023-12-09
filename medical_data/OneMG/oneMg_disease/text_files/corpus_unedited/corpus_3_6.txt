@@ -1,0 +1,465 @@
+Diabetes
+Also known as Diabetes Mellitus, Hyperglycemia, High Blood Sugar
+Overview
+Diabetes, also known as diabetes mellitus, is a long-term metabolic disorder that causes high levels of glucose in the blood. It occurs when the pancreas – which produces the hormone insulin – either fails to produce (any or enough) insulin or fails to effectively use the insulin to keep the blood glucose in control.
+  There are two main types of diabetes: Type 1 and Type 2. Type 1 diabetes is known as juvenile diabetes or childhood diabetes because it occurs most frequently in children and young people. Type 2 diabetes accounts for the vast majority (around 90%) of diabetes worldwide and affects people in their 20s to 80s.
+
+If diagnosed with diabetes (fasting >126 mg/dl and/or post meal >200 mg/dl), you may need to undergo several health tests periodically. The common lab tests include blood tests and urine tests. Diabetes can be treated with lifestyle modifications, oral medications, and a few injectables. High blood glucose, if left unchecked over the long term, can cause damage to the eyes, nerves, kidneys, legs, and heart.
+
+Diabetes requires lifelong commitment towards following a healthy lifestyle, taking medicines on time, and getting regular checkups to detect any complications.
+ Key Facts
+Usually seen in
+Type 1 diabetes: Children below 15 years of age
+Type 2 diabetes: Adults between 20 to 80 years of age
+Gender affected
+Both men and women
+Body part(s) involved
+Pancreas
+Eyes
+Nerves
+Feet
+Heart
+Kidneys
+Reproductive system
+ Prevalence
+Worldwide: 463 Million (2019)
+India: 77 Million (2019)
+Mimicking Conditions
+Metabolic syndrome
+Hypothyroidism
+Hemochromatosis
+Pancreatitis
+Cystic fibrosis
+Infections
+Cushing Syndrome 
+Necessary health tests/imaging
+Glucose-Fasting Blood (FBG) Test
+Glucose Postprandial Blood (PPBG) Test
+Glycosylated Hemoglobin (HbA1c) Test
+Glucose-Random Blood (RBG) Test
+Treatment
+Biguanides: Metformin 
+Sulfonylureas: Glimepiride & Glipizide
+Thiazolidinediones: Pioglitazone
+Meglitinides: Repaglinide & Nateglinide
+Alpha-glucosidase inhibitors: Acarbose & Miglitol
+DPP-4 inhibitors: Sitagliptin & Saxagliptin
+Incretin mimetics: Exenatide, Liraglutide & Dulaglutide
+Rapid acting insulin: Lispro & Glulisine
+Short acting insulin: Insulin regular & Semilente
+Intermediate acting insulin: Lente & Insulin Isophane
+Long acting insulin: Ultralente & protamine zinc
+Ultra-long acting insulin: Glargine, Detemir & Degludec
+Insulin pumps
+Transplants
+Bariatic surgery
+
+See All
+Symptoms Of Diabetes 
+
+Irrespective of the types, some of the common symptoms of diabetes include:
+Frequent urination
+Excessive thirst
+Sudden losss of weight
+Increased hunger
+Blurry eyesight
+Bedwetting
+Lack of energy/fatigue
+Delayed healing of cuts and other injuries
+Dry skin
+Fungal infections
+Causes Of Diabetes
+
+Type 1 diabetes
+It is known to be caused due to an autoimmune reaction in which the immune system attacks the insulin-producing beta cells of the pancreas and leads to destruction. As a result, there is very little or no insulin production, which affects the blood glucose control. 
+  Although the exact cause of this process is not yet fully understood, it is believed that genes as well as environmental factors such as viral infection, toxins or dietary factors play a role. It occurs most commonly in children and young people.
+  Type 2 diabetes
+It is caused because of the inability of the body to respond properly to insulin, leading to insulin resistance. This causes the hormone insulin to be ineffective, which in turn, causes the body to produce more insulin. As a result, the pancreas fails to keep up the body’s demand for more insulin. This gradually causes inadequate production of insulin leading to high blood glucose. 
+  Most cases of type 2 diabetes go through a stage known as prediabetes, in which the cells don’t respond normally to insulin. 
+  Other types of diabetes
+Apart from Type 1 and Type 2 Diabetes, there are other forms you should be aware of. These include:
+  1. Prediabetes
+As the name suggests, prediabetes is a condition where the blood glucose levels are higher than normal but not high enough to be classified as diabetes. In simple terms, it is a stage that, if left ignored, can develop into type 2 diabetes and diabetes-related complications. This is the reason why it is also known as ‘non-diabetic hyperglycaemia’ or ‘intermediate hyperglycaemia’. There are no clear symptoms of prediabetes, so you may have it and not know it. However, early treatment with lifestyle modifications can actually help to keep your blood glucose levels within the normal range.
+  2. Gestational diabetes
+Gestational diabetes mellitus (GDM), defined as diabetes diagnosed during pregnancy, affects a significant proportion of pregnant women worldwide. Women usually develop gestational diabetes between the second or third trimester of pregnancy. The risk of developing this condition during your future pregnancies may also be higher. It also increases the risk of brain and spinal cord anomalies, obesity and glucose intolerance (diabetes) in the child. Due to the major repercussions in mother and baby, it is important for every pregnant woman to be aware of GDM.
+  3. Monogenic diabetes
+As the name implies, monogenic diabetes results from a single gene rather than the contributions of multiple genes and environmental factors as seen in type 1 and type 2 diabetes. It is much less common and represents 1.5–2% of all cases. It is often misdiagnosed as either type 1 or type 2 diabetes. These monogenic forms present a broad spectrum from neonatal diabetes mellitus (or ‘monogenic diabetes of infancy’), maturity onset diabetes of the young (MODY) and rare diabetes associated syndromic diseases. 
+  Note: Impaired glucose tolerance (IGT) and impaired fasting glycaemia (IFG) are intermediate conditions in the transition between normality and diabetes. People with IGT or IFG are at a high risk of progressing to type 2 diabetes, although this is not inevitable.
+  Risk Factors For Diabetes
+
+Depending upon the type, there are several risk factors for diabetes. These include:
+
+1. Type 1 diabetes
+Although there are not many risk factors of type 1 diabetes, some factors that are known to up the risk include:
+Presence of certain types of genes
+Environmental triggers or a virus (any sort of infection or bacteria), which can initiate an autoimmune reaction
+Presence of autoantibodies (antibodies that mistakenly attack your own body’s tissues or organs)
+Geographic location (certain countries, such as Finland and Sweden, have higher rates of type 1 diabetes)
+Family history of diabetes 
+
+2. Type 2 diabetes
+Although type 2  diabetes is common in adults, it is also seen in older children due to childhood obesity becoming more common. The list of factors that increase the risk of type 2 diabetes include:
+Being overweight or obese
+Being a smoker
+Family history of diabetes
+Family history of high cholesterol, hypertension or cardiovascular disease
+Having a sedentary lifestyle
+Suffering from polycystic ovarian syndrome (PCOS)
+Suffering from prediabetes
+Being pregnant
+Recurrent wounds/ulcers, which fail to heal
+Stress
+History of diabetes in pregnancy
+History of impaired glucose tolerance
+
+3. Gestational diabetes
+According to the IDF, women with prior GDM are at a 7.4-fold risk of type 2 diabetes compared to women with normal blood glucose levels during pregnancy. This risk is higher 3 to 6 years post delivery. Certain factors that put you at high risk of gestational diabetes include:
+BMI (Body Mass Index) that exceeds 30
+Excessive weight gain during pregnancy
+Family history of diabetes
+History of giving birth to a baby weighing 4.5kg or more
+Expecting more than one baby (twins/triplets)
+Family history of hypertension 
+History of miscarriages or stillbirth
+History of conditions related to insulin resistance or polycystic ovarian syndrome (PCOS)
+History of habitual smoking
+Giving birth to a child with congenital abnormality
+ Did you know?
+Drug or chemical-induced diabetes is a type of diabetes that is caused due to drugs or chemicals such as immunosuppressive drugs (in organ transplant patients), water pills and steroids. Consult a doctor to know more about it.
+Consult Now
+ Diagnosis Of Diabetes 
+  The common lab tests include blood tests and urine tests. Blood tests are:
+  1. Random blood sugar test
+  The random blood glucose test is done to measure the levels of glucose circulating in the blood. This test is done to diagnose diabetes. You can take this test at any time of the day as it doesn’t need you to fast unlike other tests for diabetes. However, other tests are required to confirm the diagnosis. The test is done as a part of routine preventive health check-up or if you have symptoms of high blood glucose/hyperglycemia. 
+  According to the American Diabetes Association guidelines for diabetes testing, the values for random blood glucose test are as follows:
+Normal: Less than 140 mg/dl
+Prediabetes: Between 140 and 200 mg/dl
+Diabetes: Greater than or equal to 200 mg/dl
+Pregnant women: Greater than or equal to 200 mg/dl
+
+2. Fasting plasma glucose test (FPGT)
+  The fasting blood glucose test is one of the most common tests prescribed for diabetes. It is a blood test that measures the levels of glucose in the blood in the fasting state (empty stomach). Ideally, it is advised to not eat or drink anything (except water) for 8-12 hours before the test. It is the simplest as well as the fastest test to diagnose and monitor diabetes.
+  According to the American Diabetes Association guidelines for diabetes testing, the values for FPGT are as follows:
+Normal: Less than 100 mg/dl
+Prediabetes: Between 100 mg/dl to 125 mg/dl
+Diabetes: Greater than or equal to126 mg/dl
+Pregnant women: Between 90-140 mg/dl  
+
+3. Postprandial blood glucose (PPBG) test
+  It is performed to measure glucose levels in the blood after a period of 2 hours from the start of the last meal. It is usually recommended to screen for prediabetes and diabetes types 1 and 2. It is also used to monitor treatment efficacy in patients undergoing treatment for diabetes. The test is usually recommended when the blood glucose level falls between 140 and 200 mg/dl.
+  According to the American Diabetes Association guidelines for diabetes testing, the values for PPBG are as follows:
+Normal: Less than 140 mg/dl
+Impaired glucose tolerance (prediabetes): Between 140 and 200 mg/dl 
+Diabetes: Greater than or equal to 200 mg/dl
+  4. Hemoglobin A1c (HbA1c) test
+  It is a blood test that measures a person’s average blood glucose level over the past 2 to 3 months. It is ideally used to check how well your diabetes is managed with medication. However, if your fasting and postprandial levels are high, then HbA1c is advised to confirm the diagnosis. 
+  According to the American Diabetes Association guidelines for diabetes testing, the values for HbA1c are as follows:
+Normal: Less than 5.7%
+Prediabetes: Between 5.7% to 6.4%
+Diabetes: Greater than or equal to 6.5% 
+Pregnant women: Between 6% to 6.5%
+  5. Oral glucose tolerance test (OGTT)
+  The test is used to check the blood glucose levels before and 2 hours after you have a sweet drink (which in most cases is a glucose solution). The test tells your doctor how well your body processes the glucose (sugar) which in turn aids in the diagnosis of diabetes. 
+  According to the American Diabetes Association guidelines for diabetes testing, the values for OGTT are as follows:
+Normal : Less than 140 mg/dl
+Prediabetes: Between 140 mg/dl to 199 mg/dl
+Diabetes: Greater than or equal to 200 mg/dl
+Pregnant women: Greater than or equal to 200 mg/dl
+
+Watch this video to know why blood glucose tests are important for diabetics as well as non-diabetics.
+
+
+6. Other tests
+  If diagnosed with diabetes, you may need to undergo several health tests periodically. These include:
+  1. Blood pressure
+  According to the American Heart Association, your blood pressure has to be less than 120/80 mmHg. This is because patients who keep their blood pressure under control are less likely to suffer from diabetes-related complications such as heart attacks, blindness, or kidney damage.
+Get your blood pressure checked at every doctor’s visit or twice every month. You should also self monitor your blood pressure and maintain a blood pressure diary if you have high blood pressure coexisting with diabetes. 
+
+To keep a tab on your blood pressure (BP) level, get a digital BP monitor. 
+Buy Now
+
+
+2. Eye examination
+  You should visit an ophthalmologist (eye specialist) once every year for a detailed eye examination. The doctor would check for any damage to the nerve tissues on the back of the eye (retina). Diabetes may lead to diabetic retinopathy and cataract.
+  3. Foot examination
+  You must visit your doctor for a foot examination at least once every year to get your pulse and reflexes checked in your feet. You may also be examined for any unhealed cut, infections, sores or loss of feeling anywhere in your feet. Here are a few footcare tips for diabetes.
+  4. Lipid profile test
+  Cholesterol is a waxy substance present in your blood as HDL (good cholesterol) and LDL (bad cholesterol). With diabetes, the LDL levels and triglycerides tend to increase while the HDL levels decrease, increasing the risk of heart disease and stroke.
+  5. Kidney function tests
+  You should get a yearly check for your kidneys through kidney function tests (blood tests) and a urine test. This is because, in diabetics, the blood vessels in the kidneys get injured and your kidneys cannot clean your blood properly. As a result, your body will retain more water, salt and protein than it should, which in turn can affect your kidney’s health.
+  6. Dental checkup
+  Get yourself examined every 6 months by a dentist for your gums, teeth and regular cleaning. This is because high levels of glucose in blood can lead to pain, burning and redness in the mouth and also increase the risk of various oral problems such as gingivitis (inflamed gums), periodontitis (gum disease), oral thrush, and dry mouth.
+  7. Liver function tests (LFT)
+  It should be done once annually as it helps determine the health of your liver by measuring the levels of proteins, liver enzymes, or bilirubin in your blood. Type 2 diabetes is associated with impairment in liver function by increasing the level of the liver enzymes and the risk of fatty liver disease, liver cirrhosis and liver failure.
+  8. Vitamin B12 test
+  In case you are taking metformin for a long time, then you must get your Vitamin B12 levels checked as the use of metformin may cause Vitamin B12 deficiency. Periodic measurement of Vitamin B12 levels should be considered especially if you have anemia or peripheral neuropathy.
+ Prevention Of Diabetes 
+
+With simple lifestyle changes such as diet control, staying active, keeping a tab on your weight and staying away from vices, you can lower your risk of type 2 diabetes. Here are a few tips to get started.
+  1. Make healthy food choices
+  Taking care of your diet is one of the most essential components to manage and prevent diabetes.
+Switch to oils with high volume of monounsaturated fats & polyunsaturated fats like olive oil, canola oil, soybean oil or rice bran oil. Limit intake to one tablespoon a day.
+Restrict intake of foods with high glycemic index like white breads, white rice, fatty foods, and soda.
+Consume foods with low glycemic index like multigrain flour, whole grains, daals, most fruits, non-starchy vegetables and carrots.
+Limit consumption of fast food such as chips, processed foods, etc.
+  2. Watch your weight
+  Losing weight can help to regulate blood sugar levels. If you have type 2 diabetes, losing just 4-6 kgs can lower your glucose levels.
+  The way fat is distributed in the body can also impact diabetes risk and management. People who have abdominal adiposity (fat around belly) are more prone to type 2 diabetes than those with fat mostly in the thighs, hips, and buttocks.
+
+3. Exercise regularly
+  Regular exercise is a good way to keep your body healthy and prevent diabetes. Exercise at least three times a week for about 30 to 45 minutes. Warm up for 5 minutes before starting to exercise and cool down for 5 minutes after exercise.
+
+Be more active throughout the day. This includes parking your car further from your house/office, opting for stairs instead of the elevator or walking instead of sitting while talking on the phone. 
+  4. Manage stress better
+  Stress can make blood sugar levels harder to control. Avoid unnecessary stress by indulging in activities that can help you relieve stress such as reading, traveling, sports, and other hobbies.
+  You can also try relaxation techniques such as meditation and yoga to alleviate anxiety and stress. You may join a yoga club or take out 10-15 minutes every day to practice meditation.
+
+Finding it hard to deal with stress? Try our wide-range of stress management products.
+Explore Here
+
+
+5. Go for regular health check-ups
+  As most of the symptoms of diabetes are not detected until late in its course, it is wise to get a preventive health checkup to know about diabetes. You should get a health check every 6 months to a year if you have any risk factors of diabetes like hypertension, obesity or heart disease.
+  6. Quit smoking
+  Smoking has been found to directly increase the risk of several diabetes complications such as cardiovascular diseases, stroke, eye diseases, nerve damage, and kidney damage. It has also been found to reduce blood flow to the feet and other body extremities. This can lead to foot problems and slow down the healing of injuries. Irregular blood flow can lead to infections and unwanted mouth ulcers, which puts you at risk of oral health problems. 
+  Hence, it is wise to quit smoking to lower your risk of diabetic complications. Talk to your doctor for measures that can help you to quit smoking.
+
+Tobacco is injurious to the health. Say no to tobacco. Try our smoking cessation product range.
+Check Now
+Celebs affected
+Arvind Kejriwal
+Delhi CM Arvind Kejriwal mentioned on twitter that he also suffers from diabetes and takes insulin to keep his blood glucose level under control.
+Tom Hanks
+The Oscar winning Hollywood actor, Tom revealed that he was diagnosed with type 2 diabetes on the American Talk show "The Late Show" in the year 2013 and he always makes sure to follow strict plan to manage diabetes.
+Specialist To Visit
+
+If you have been experiencing symptoms such as tingling sensation or numbness of the limbs, feeling excessively hungry or thirsty, or unexplained weight loss, then it is wise to consult following specialists:
+Endocrinologist
+Diabetologist
+If you are already diagnosed with diabetes, then getting a regular health check-up is a must. This is because, chronic or uncontrolled diabetes can impact other major organs of the body such as the eyes, legs, nerves, kidneys, and gums. So if you suffer from any complications due to diabetes, then getting in touch with the respective specialist can help you to manage and prevent these problems. Some of the common specialists who can help are:
+Nephrologist
+Neurologist
+Podiatrist 
+Dentist
+Ophthalmologist
+Dietician
+Consult India's best doctor's online with a single click. Click here to book an appointment.
+Consult Now
+ Treatment Of Diabetes 
+
+
+  Diabetes can be treated with medications and injections along with few lifestyle modifications. Based on your blood glucose level, your doctor might recommend medicines/injections to control diabetes. Some of the common types of medicines for diabetes include:
+  A. Oral antidiabetics
+  1. Biguanides
+This class of drugs help to improve glucose control by suppressing glucose production by the liver, decreasing the absorption of glucose by the intestine and increasing the insulin sensitivity. Metformin is generally the first medication prescribed for type 2 diabetes.
+  2. Sulphonylureas
+These drugs are known to increase the secretion of insulin by the pancreas to manage diabetes. Some of the common examples of drugs belonging to this class include:
+Glimepiride
+Glipizide
+
+3. Thiazolidinediones
+This class of drugs helps control diabetes by increasing insulin sensitivity in the muscles and fat tissues. Examples of this class of drugs include:
+Pioglitazone
+
+4. Meglitinides
+This class of drugs increases secretion of insulin by the pancreas to treat diabetes. Some of the common examples include:
+Repaglinide
+Nateglinide
+
+5. Alpha-glucosidase inhibitors
+As the name suggests, these drugs inhibit the enzyme alpha glucosidase thereby decreasing the absorption of glucose by the intestine. Some of the commonly available drugs under this class include:
+Acarbose
+Miglitol
+
+6. DPP-4 inhibitors
+This class of drugs works by improving the secretion of insulin by the pancreas thereby helping in the treatment of diabetes. Examples of this class of drugs are:
+Sitagliptin
+Saxagliptin
+
+7. Incretin mimetics
+These oral antidiabetics are known to increase the secretion of the hormone insulin and help in controlling diabetes. Commonly known as glucagon-like peptide 1 (GLP-1) receptor agonists or GLP-1 analogues, this class includes drugs such as:
+Exenatide
+Liraglutide
+Dulaglutide
+
+B. Insulin injections
+  This includes insulin (mainly human insulin) which increases the uptake of glucose by the cells and helps to control diabetes. There are 5 different types of insulin available currently which are recommended based on the severity of the condition. These include:
+Rapid Acting insulin (Examples: lispro, glulisine, etc)
+Short Acting insulin (Examples: insulin regular, semilente)
+Intermediate Acting insulin (Examples: lente, insulin Isophane, etc)
+Long Acting Insulin (Examples: ultralente, protamine zinc)
+Ultra-Long Acting Insulin (Examples: glargine, detemir, degludec, etc)
+Here’s more on how to use insulin injection for diabetes.
+Click To Read
+
+
+C. Insulin pumps
+  Insulin pumps are small-sized computer devices which deliver small doses of short acting insulin in a continuous manner, just like how pancreas works. It provides a steady flow through day and night, called as basal insulin, and an extra dose during meals, called as bolus, based on the body’s requirement of insulin. All you need to do is attach it to your body using an infusion set. Talk to your doctor if you want to know more about insulin pumps to manage your diabetes.
+  D. Transplants
+  Some people who have type 1 diabetes, a pancreas transplant may be an option. Islet transplants are being studied as well. With a successful pancreas transplant, you would no longer need insulin therapy. But transplants aren't always successful and in some cases these may pose serious health risks.
+  E. Bariatric surgery
+  Also known as weight loss surgery, bariatric surgery helps to cut down the fat through surgery. Although it is not specifically considered a treatment for type 2 diabetes, people with type 2 diabetes who are obese and have a body mass index higher than 35 may benefit from this surgery.
+
+Here’s more on what weight loss surgery is and who can go for it.
+Read To Know
+ Home-care For Diabetes
+
+
+Diet in diabetes
+Whether you’re trying to prevent or control diabetes, your nutritional needs are virtually the same as everyone else, so no special foods are necessary. However, certain modifications in terms of quantity and type of food might be required.
+
+1. Eat more
+Healthy fats from nuts, olive oil, fish oils, flax seeds, or avocados
+Fruits and vegetables—ideally fresh, the more colorful the better; whole fruit rather than juices
+High-fiber cereals and breads made from whole grains
+Fish and shellfish, organic chicken or turkey
+High-quality protein such as eggs, beans, low-fat dairy, and unsweetened yogurt
+2. Eat less
+Trans fats from partially hydrogenated or deep-fried foods
+Packaged and fast foods, especially those high in sugar, baked goods, sweets, chips, desserts
+White bread, sugary cereals, refined pastas or rice
+Processed meat and red meat
+Low-fat products that have replaced fat with added sugar, such as fat-free yogurt
+3. Choose high-fiber, slow-release carbs
+Carbohydrates have a big impact on your blood sugar levels—more so than fats and proteins—so you need to be smart about what types of carbs you eat. Limit refined carbohydrates like white bread, pasta, and rice, as well as soda, candy, packaged meals, and snack foods. Focus on high-fiber complex carbohydrates—also known as slow-release carbs. They are digested more slowly, thus preventing your body from producing too much insulin.
+
+Dr. Beena Bansal (MBBS, MD, DM, Endocrinology) tells us about some simple ways to curb our food cravings. Watch the video now!
+
+Fruits in diabetes
+There is mixed perception about intake of fruits for diabetes. Some people believe that diabetics should completely cut down fruits from their diet while some think that one can include as much fruits as they want in their diet as it doesn’t have any impact on blood glucose level. However, neither is true. It is best to include fruits as an integral part of your daily meal plan while keeping a tab on the carbohydrate content. Here is a quick guide to help you out with your daily needs of fruits:
+
+Whole fruits
+1 small apple
+1 small chickoo
+1 small orange
+1 small guava
+1 small pear
+Cut fruits
+Half banana
+1 slice mango
+1 cup papaya
+3/4th cup muskmelon
+1 ¼ cup watermelon
+Watch the video to know more about which fruits to eat and which fruits to avoid.
+
+
+
+Exercise in diabetes
+Exercises are designed to help people with diabetes avoid problems which can result from unwise exercise choices. Aerobic activity is one of the effective exercise options to control diabetes. When done at moderate intensity it raises your heart rate and makes you sweat thereby helping you to maintain an optimum blood glucose level.
+
+Some of the common forms of aerobic exercises are:
+Brisk (fast-paced) walking
+Light jogging
+Bike riding
+Playing tennis or badminton
+Swimming/ water aerobics
+Gymming
+Roti Vs Rice: Which is Healthier?
+Ms. Chhavi Kohli, a well-known diabetes educator, talks about the difference in nutrient content between rice and roti and how diabetic patients can include rice in their daily diet. She also explains about the right amount of rice to be eaten and the health benefits of eating brown rice over white rice.
+Watch Now
+Complications Of Diabetes 
+
+
+Insulin deficit, if left unchecked over the long term, can cause damage to many of the body’s organs, leading to disabling and life-threatening health complications such as:
+  1. Diabetes retinopathy (Eyes): High blood glucose levels shall put you at an increased risk of eye problems such as blurred vision. It can affect the shape of your lens and damage the blood vessels in your eyes. Diabetic retinopathy can also increase the risk of cataract and glaucoma.
+  2. Diabetic foot (Feet): Diabetes (both type 1 and 2) causes damage to blood vessels and peripheral nerves that can result in problems in the legs and feet. Two main conditions associated with diabetes are peripheral artery disease (PAD) and peripheral neuropathy leading to increased risk of foot problems. PAD means narrowing and hardening of blood vessels whereas peripheral neuropathy refers to damage to the small nerves in feet due to diabetes. In addition to these, diabetic patients may experience varied foot problems like overgrowth in the form of corns, calluses, ulcers, painful events such as bunions and fungal infections.
+  3. Diabetic nephropathy (Kidneys): Diabetic kidney disease, also known as diabetic nephropathy, is one of the most common complications of diabetes. Excess glucose can cause thickening of blood vessels in the kidneys. It also causes thickening of the filtration units (glomerulus) that affects the normal functioning of the kidneys. Healthy kidneys do not allow excess proteins to pass through the filters. But when the filtration process is impacted, microalbumin, a type of protein, is excreted through urine. This gradually increases the pressure on the kidneys and in the long run leads to chronic kidney disease and kidney failure.
+  4. Diabetic neuropathy (Nerves): High blood glucose levels can impair the blood flow to the nerves by causing damage to the small blood vessels. As a result, it can cause symptoms such as numbness, decreased sensation and pain in the extremities. Early diagnosis and treatment can help prevent or delay these complications.
+  5. Atherosclerosis (Blood vessels): High blood glucose levels can cause damage to larger blood vessels of the heart. This not only impairs the blood flow to the heart but can also increase the risk of atherosclerosis, which leads to narrowing of arterial walls throughout the body. This narrowing of arteries can lead to decreased blood flow to the heart muscle (causing a heart attack) or to the brain (leading to stroke), or to extremities (leading to pain and decreased healing of infections).
+  6. Diabetic ketoacidosis: It is a life-threatening disease in which a person’s cells do not get enough sugar required for energy. As a result, the body starts to break down fats to get the required energy. This causes the production of a compound called ketones which are released in the blood. It occurs when there isn’t enough insulin in the body to use glucose. This is a sign that your diabetes is getting out of control. Although it can happen to anyone with diabetes it is more common in people with type 1 diabetes.
+  7. Erectile dysfunction (ED): In a person suffering from diabetes, there is a high chance of getting ED around 10-15 years earlier than non-diabetics. This can be attributed to factors such as longer duration of diabetes, old age, poor glycemic control, and neuropathy. It is caused due to hormonal, neurological, vascular and psychological effects of high blood glucose levels on the body. ED can cause an increase in mental stress, lead to disordered interpersonal relationships and interfere with sexual life, thus affecting the overall quality of life in diabetics.
+  Gestational Diabetes Mellitus (GDM)
+  GDM not only imposes immediate risks for both mother and fetus but can also affect the future health of both the mother and child throughout their life. The immediate complications for the mother include:
+Preeclampsia (characterized by high blood pressure)
+Need for cesarean sections
+Polyhydramnios (excessive amniotic fluid)
+Oligohydramnios (deficiency of amniotic fluid)
+The health complications in the baby include:
+Hyperinsulinemia (high insulin level)
+Macrosomia (the baby who is significantly larger in size than normal)
+Shoulder dystocia (infant’s shoulder gets lodged in the mother’s pelvis during delivery)
+Neonatal hypoglycemia (low blood glucose level)
+Respiratory distress syndrome (immature lungs)
+Stillbirth
+Alternative Therapies For Diabetes
+
+
+
+Ayurveda
+The science of Ayurveda manages diabetes through a combination of activities that include exercise (Vyayam), dietary regulation (Pathya), panchakarma (bio-purification) and medicines. It is best to consult an ayurveda consultant before taking any ayurvedic medicine for diabetes. Some household herbs and spices that you can include in your diet include:
+Powdered Jamun seeds can be taken with water or buttermilk (chaach).
+Methi (Fenugreek) seeds are taken with water 15-20 minutes before each meal. Methi has soluble fibers that slow down the digestion and absorption of glucose.
+Bael leaves are squeezed to prepare fresh juice that can be taken along with a pinch of black pepper.
+Dalchini (Cinnamon) in powdered form can be taken with water as it helps in improving sugar as well as cholesterol level.
+Concentrated amla juice taken along with bitter gourd juice, helps in releasing more insulin.
+Karela (Bitter gourd) juice is recommended to be taken every morning.
+  Homeopathy
+Defined as a complementary medicine, homeopathy majorly concentrates on improving the functioning of the pancreas to produce insulin. Homeopathy experts rely on the patient’s history and temperament to devise a constitutional medication. However, it is recommended to use the homeopathic medicines only if prescribed by the homeopath and that too alongside the usual course of medications suggested.
+  Yoga
+Yoga asanas help you to ease stressful thoughts and help you to improve mental health in diabetics. Restorative yoga involves yoga poses and healing through relaxation techniques with conscious breathing and power yoga has been found to benefit for losing weight (a risk factor for diabetics). It has been studied for controlling both the symptoms and complications associated with type 2 diabetes mellitus.
+  Acupuncture
+This technique uses needles to treat chronic pain. Acupuncture may be effective in treating not only diabetes, but also in preventing and managing complications of the disease.
+  Massage therapy
+Massage therapy could be incorporated into relaxation therapy, but it also serves another purpose that can be particularly useful for diabetics. The extreme stress-reducing benefits of massage can help in controlling the counter-regulatory stress hormones and help the body to use insulin more effectively.
+ Living with Diabetes
+  As diabetes is a chronic health problem, it is imperative to make small changes in your lifestyle to manage the condition in a better way. Here are a few measures to include in your care plan.
+  1. Learn about the condition
+It is very important for a person with diabetes to accept it bravely and at the same time be well-informed about the condition. Learn about the symptoms, the risks of potential complications, practical ways to manage diabetes and the importance of treatment. This includes reaching out to your doctor for more information, working out with a nutritionist for a customized meal plan or joining support groups to share your stories and be on top of your game when it comes to diabetes management. 
+  2. Take care of your mental health
+Stress, anxiety and depression are some of the common mental problems seen in people with diabetes. According to the CDC, diabetics are around 2 to 3 times more likely to suffer from depression than those without diabetes. And most of those with stress, anxiety and depression do not get diagnosed or treated which in turn can hamper their diabetes control and increase the risk of health complications. 
+  Hence, it is important to keep a tab on your mental health and look out for any warning signs of depression which include feeling sad, loss of interest, being extremely tired, difficulty in concentrating and being irritable and anxious. If you have any of these symptoms, do consult your doctor immediately for appropriate diagnosis and treatment. 
+  Also, keep stress and anxiety at bay with simple tips such as:
+Indulging in some relaxation techniques like meditation or yoga.
+Talking to your friends or family about your stress.
+Trying out a new hobby like gardening, dancing, playing a music instrument, etc.
+Spending some “ME” time by doing things you like such as reading a book or taking a stroll in a park.
+3. Be ready to tackle emergencies
+Getting sick is a part and parcel of life however, if you suffer from diabetes you need to be extra careful as diabetics are more prone to infections. So it is wise to plan out your sick days beforehand by stocking up on your medicines (including the OTC medications) and healthy foods and drinks. Moreover, as the blood glucose level can be hard to manage when sick, make sure to record your reading daily and take your medicine without fail.
+  There are times when diabetics who are on medicines or take insulin can have low blood glucose levels. Also, skipping meals, eating less or exercising more than usual can lead to a sudden drop in blood sugar level (hypoglycemia). In such cases of diabetic emergencies consult your doctor immediately.
+
+Here's more on what to eat when the blood sugar dips.
+Click To Read
+
+4. Diabetes care plan 
+When it comes to diabetes care plan, it can be divided into four key measures which include:
+
+1. Lifestyle tips such as eating a healthy diet and exercising regularly without fail. A diet rich in proteins, complex carbohydrates, healthy fats and fibre is the key to keep your blood glucose levels in control. Ensure to get a minimum of 150 minutes of moderate intensity exercises such as brisk walking per week.
+  2. Recording and maintaining charts of your blood glucose levels on a daily basis helps you to know how well your treatment is working. Do not skip your medicines or stop taking your medicines even if your diabetes is in control.
+  3. Self-monitoring of blood glucose (SMBG) is important as it allows you to know your blood glucose level at any time and helps prevent the consequences of very high or very low blood sugar. It also enables tighter blood sugar control, which decreases the long-term risks of diabetic complications. Read more on how to use blood glucose monitors and tips to buy a glucometer.
+  4. Regular checkups are a must as these help you to understand if you are having trouble meeting your treatment or blood glucose targets. Get HbA1c level every three months along with a doctor visit every six months. Every year do a complete checkup to examine your eye health, lipid profile and kidney health.
+
+Getting a regular health check-up is a good idea to prevent complications due to diabetes. 
+Book a Test
+ Myth: You must avoid sugar at all costs.
+Fact: You can enjoy your favorite treats as long as you plan properly and limit hidden sugars. Dessert doesn’t have to be off limits, as long as it’s a part of a healthy meal plan. Check out our range of diabetic-friendly health drinks and superfoods.
+Click Here
+Frequently Asked Questions
+Can eating sweets cause diabetes?
+Is diabetes insipidus same as diabetes mellitus?
+Do diabetes medicines help lose weight?
+Can people with diabetes have proteins?
+How is bitter gourd (karela) juice helpful in diabetes?
+Are artificial sweeteners good for people with diabetes?
+What is the best dinner time for people with diabetes?
+Wheat or jowar roti: what is better for people with diabetes?
+Can diabetes cause kidney failure?
+Does eating potatoes cause diabetes?
+Can diabetes be cured?
+References
+IDF DIABETES ATLAS. Ninth edition 2019. International Diabetes Federation (IDF).
+Understanding A1c Diagnosis. American Diabetes Association (ADA).
+Varma PP. Prevalence of chronic kidney disease in India - Where are we heading?. Indian J Nephrol. 2015;25(3):133-135.
+Kharroubi AT, Darwish HM. Diabetes mellitus: The epidemic of the century. World J Diabetes. 2015;6(6):850-867.
+Maiorino MI, Bellastella G, Esposito K. Diabetes and sexual dysfunction: current perspectives. Diabetes Metab Syndr Obes. 2014;7:95-105
+Pandey A, Tripathi P, Pandey R, Srivatava R, Goswami S. Alternative therapies useful in the management of diabetes: A systematic review. J Pharm Bioallied Sci. 2011;3(4):504-512.
+Prediabetes - Your Chance to Prevent Type 2 Diabetes. Centers For Disease Control and Prevention (CDC). Last reviewed June 2020.
+Sapra A, Bhandari P. Diabetes Mellitus. [Updated 2021 Jun 8]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2021 Jan.
+Diabetes, Gum Disease, & Other Dental Problems. National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). Last reviewed by Sep, 2014.
+Did our information help you?
+In our relentless endeavour to keep improving our services, you are our eyes. Kindly take out sometime to guide us on how to serve your better.
+Share your feedback
+Subscribe to stay informed
+Subscribe to our carefully crafted informative emailers by Medical Experts and be the first to get the latest health news, tips and important updates.
+Submit
+Disclaimer
+Tata 1mg's sole intention is to ensure that its consumers get information that is expert-reviewed, accurate and trustworthy. However, the information contained herein should NOT be used as a substitute for the advice of a qualified physician. The information provided here is for informational purposes only. This may not cover all possible side effects, drug interactions or warnings or alerts. Please consult your doctor and discuss all your queries related to any disease or medicine. We intend to support, not replace, the doctor-patient relationship.
